@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 23998997,
+      "magazineId": 1778990,
+      "title": "짜라투스트라는 말했다. “자뻑왕 네 이름은 니체.\"",
+      "subTitle": "철학자 박구용",
+      "summary": "프로댓글러 초인, 니체의 해머에 얻어 맞다.",
+      "image": "https://img.podbbang.com/pbi/0/953/193/000193953/193953.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1571,
+        "title": "2021년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 925,
+      "media": {
+        "duration": "01:22:04",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23998416,
+      "magazineId": 1778990,
+      "title": "<신과 함께 II> 외국 귀신과는 우리 말로 하나요?",
+      "subTitle": "천상시무, 천왕할매, 힐링선녀, 정국도령",
+      "summary": "신병, 접신, 작두, 퇴마, 삼신. 무당을 엿보다.",
+      "image": "https://img.podbbang.com/pbi/0/944/193/000193944/193944.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1571,
+        "title": "2021년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 250,
+      "media": {
+        "duration": "01:21:25",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23998417,
+      "magazineId": 1778990,
+      "title": "<빅히스토리 II> 박사님, 인간 언제 나와요?",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "함부로 재생금지. 이제 겨우 5억년 남았다.",
+      "image": "https://img.podbbang.com/pbi/0/947/193/000193947/193947.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1571,
+        "title": "2021년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 727,
+      "media": {
+        "duration": "01:35:40",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23998418,
+      "magazineId": 1778990,
+      "title": "<부록|브랜드 II> 돈 있다고 살 수 있는 게 아니다.",
+      "subTitle": "평론가 이은경, 메이커 명신우",
+      "summary": "파텍 필립부터 짝퉁까지, 시계의 우주를 탐닉하다.",
+      "image": "https://img.podbbang.com/pbi/0/948/193/000193948/193948.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 1571,
+        "title": "2021년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 209,
+      "media": {
+        "duration": "01:08:27",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/04.mp3"
+      }
+    },
+    {
+      "id": 23998419,
+      "magazineId": 1778990,
+      "title": "역사상 단 2명. 복싱명예의 전당, 장정구 유명우",
+      "subTitle": "WBC 세계챔피언 장정구, WBA 세계챔피언 유명우",
+      "summary": "두 전설, 이빨의 링에서 40년 만에 격돌, 하다.",
+      "image": "https://img.podbbang.com/pbi/0/949/193/000193949/193949.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1571,
+        "title": "2021년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 146,
+      "media": {
+        "duration": "01:18:47",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23998421,
+      "magazineId": 1778990,
+      "title": "자연의 부록에 불과한 수컷. 생존이 아니라 번식.",
+      "subTitle": "진화심리학박사 전중환",
+      "summary": "진화심리학의 탄생, 관점, 오해, 최전선을 논하다.",
+      "image": "https://img.podbbang.com/pbi/0/950/193/000193950/193950.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1571,
+        "title": "2021년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 268,
+      "media": {
+        "duration": "01:07:23",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24003535,
+      "magazineId": 1778990,
+      "title": "시기 질투 불행에 맞서는 법, 모차르트라 한다.",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "요절한 생계형 비정규직 천재의 목숨값을 듣다.",
+      "image": "https://img.podbbang.com/pbi/0/954/193/000193954/193954.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1571,
+        "title": "2021년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 437,
+      "media": {
+        "duration": "01:04:11",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23998423,
+      "magazineId": 1778990,
+      "title": "<인터뷰> 코로나 이후 세계, 그 메가트렌드",
+      "subTitle": "문정인",
+      "summary": "국가정상이 귀담는 자, 문정인을 논하다.",
+      "image": "https://img.podbbang.com/pbi/0/952/193/000193952/193952.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1571,
+        "title": "2021년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 213,
+      "media": {
+        "duration": "01:25:10",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 24591852,
+  "magazineId": 1778990,
+  "title": "[연말결산] 청취자 인게이지먼트, 어그레시브하게",
+  "subTitle": "철학자 박구용",
+  "summary": "청취자 FGI, 홉스부터 멜랑꼴리까지",
+  "image": "https://img.podbbang.com/pbi/0/138/333/000333138/333138.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 3098,
+    "title": "2022년 12월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1535,
+  "media": {
+    "duration": "00:51:37",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672381748_822300.jpeg?w=750&h=2243\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672452647_522700.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672452647_859600.jpeg?w=750&h=1124\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672380423_514600.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박구용</h1><h2 class=\"description\">전남대 철학과 교수<br>사진. LESS, 조진섭</h2></div>"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 24491394,
+  "magazineId": 1778990,
+  "title": "구찌의 멤버 yuji, 막장 가족 흥망성쇠",
+  "subTitle": "패션큐레이터 김홍기 ",
+  "summary": "라 돌체 비타, 독토레, 사치, 영매, 청부살인",
+  "image": "https://img.podbbang.com/pbi/0/928/311/000311928/311928.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2933,
+    "title": "2022년 9월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1263,
+  "media": {
+    "duration": "00:55:32",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2933/1664937712_838400.jpeg?w=750&h=8318\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2933/1664937712_547200.jpeg?w=750&h=5172\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2933/1664937712_171000.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">김홍기</h1><h2 class=\"description\">패션큐레이터 <br><br>사진. LESS</h2></div>"
+}

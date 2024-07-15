@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24337544,
+      "magazineId": 1778990,
+      "title": "개딸의 미학, 정치 심미화와 예술 정치화",
+      "subTitle": "철학자 박구용",
+      "summary": "개딸과 68 혁명 그리고 칸트, 헤겔, 벤야민",
+      "image": "https://img.podbbang.com/pbi/0/399/272/000272399/272399.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2612,
+        "title": "2022년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1511,
+      "media": {
+        "duration": "00:56:39",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24337543,
+      "magazineId": 1778990,
+      "title": "물고기로부터, 날개 대신 두 팔의 자유. 인간이 되다.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "척추동물의 진화, 단궁류, 무궁류, 이궁류, 오훼골\n",
+      "image": "https://img.podbbang.com/pbi/0/376/272/000272376/272376.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2612,
+        "title": "2022년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1154,
+      "media": {
+        "duration": "01:05:43",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24337557,
+      "magazineId": 1778990,
+      "title": "쇼팽의 피아니즘 그리고  조르주의 모유수유",
+      "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+      "summary": "파리, 디아스포라, 외로움, 부치지 못한 편지",
+      "image": "https://img.podbbang.com/pbi/0/373/272/000272373/272373.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2612,
+        "title": "2022년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1222,
+      "media": {
+        "duration": "01:24:08",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24337559,
+      "magazineId": 1778990,
+      "title": "역대급 찌질남, 불륜 하다. 소설 <포의교집>",
+      "subTitle": "국문학자 유광수",
+      "summary": "궁녀 출신 기혼녀와 찌질 한량의 “트루\" 러브",
+      "image": "https://img.podbbang.com/pbi/0/375/272/000272375/272375.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2612,
+        "title": "2022년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 890,
+      "media": {
+        "duration": "01:00:54",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24337551,
+      "magazineId": 1778990,
+      "title": "애주가, 눈 떠보니 양조장 대표. 신세대 여성 양조인 4인방",
+      "subTitle": "양숙희, 강진희, 오서윤, 최영은",
+      "summary": "전직 구조조정, 교육 전문가, 주부의 양조장 설립기",
+      "image": "https://img.podbbang.com/pbi/0/379/272/000272379/272379.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2612,
+        "title": "2022년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 608,
+      "media": {
+        "duration": "01:03:27",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2204makguli.mp3"
+      }
+    },
+    {
+      "id": 24337548,
+      "magazineId": 1778990,
+      "title": "세계 최초, 패러글라이딩 히말라야 횡단기",
+      "subTitle": "탐험가 박정헌",
+      "summary": "수평의 세계에서 수직의 세계로.",
+      "image": "https://img.podbbang.com/pbi/0/378/272/000272378/272378.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2612,
+        "title": "2022년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 747,
+      "media": {
+        "duration": "00:55:03",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24337547,
+      "magazineId": 1778990,
+      "title": "\"여기는 지켜야 할 선이 없군요”",
+      "subTitle": "전 국립외교원 원장 김준형, 전 대통령직속 북방경제협력위원 제성훈 ",
+      "summary": "러시아-우크라이나 전쟁, 정보 밸런스를 체크하다.",
+      "image": "https://img.podbbang.com/pbi/0/382/272/000272382/272382.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2612,
+        "title": "2022년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1065,
+      "media": {
+        "duration": "01:07:24",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24337546,
+      "magazineId": 1778990,
+      "title": "[부록] OTT 결정장애 극복프로젝트 1탄",
+      "subTitle": "박상준, 임태운, 이서영",
+      "summary": "SF시리즈 - 히어로, 디스토피아, AI, 외계인, 우주선",
+      "image": "https://img.podbbang.com/pbi/0/377/272/000272377/272377.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2612,
+        "title": "2022년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 748,
+      "media": {
+        "duration": "01:08:59",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

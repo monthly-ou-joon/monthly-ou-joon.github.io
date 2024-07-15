@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24515055,
+      "magazineId": 1778990,
+      "title": "대통령의 영장화, 대한민국의 사물화",
+      "subTitle": "철학자 박구용",
+      "summary": "사물화/대상화, 칸트부터 마사 누스바움까지",
+      "image": "https://img.podbbang.com/pbi/0/468/318/000318468/318468.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2999,
+        "title": "2022년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1635,
+      "media": {
+        "duration": "00:54:08",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24514242,
+      "magazineId": 1778990,
+      "title": "프라다, 모든 평범한 것들에 품위를",
+      "subTitle": "패션큐레이터 김홍기 ",
+      "summary": "금수저, 공산주의자, 정치학박사, 디자이너",
+      "image": "https://img.podbbang.com/pbi/0/386/318/000318386/318386.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2999,
+        "title": "2022년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1486,
+      "media": {
+        "duration": "00:54:08",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24515061,
+      "magazineId": 1778990,
+      "title": "미켈란젤로 시리즈II. <천지창조>",
+      "subTitle": "미술사학자 노성두",
+      "summary": "포즈, 배꼽, 보자기, 고추 그리고 두 번째 만남",
+      "image": "https://img.podbbang.com/pbi/0/474/318/000318474/318474.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2999,
+        "title": "2022년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1160,
+      "media": {
+        "duration": "00:59:22",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2210architecturefree.mp3"
+      }
+    },
+    {
+      "id": 24514247,
+      "magazineId": 1778990,
+      "title": "스스로 된자 - 리스트, 더 프리맨",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "신동, 플레이보이, 초월기교, 교향시",
+      "image": "https://img.podbbang.com/pbi/0/425/318/000318425/318425.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2999,
+        "title": "2022년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1079,
+      "media": {
+        "duration": "01:04:59",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24515035,
+      "magazineId": 1778990,
+      "title": "\"식구들이 잠들면, 다듬이질을 했어요\"",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "필기구 최고수의 종이론, 통일장에 다가서다",
+      "image": "https://img.podbbang.com/pbi/0/456/318/000318456/318456.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2999,
+        "title": "2022년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1071,
+      "media": {
+        "duration": "01:00:12",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24514248,
+      "magazineId": 1778990,
+      "title": "조선 가짜남편 사건, 그 거대한 음모",
+      "subTitle": "국문학자 유광수",
+      "summary": "조선송사 2탄, 이항복의 <유연전>",
+      "image": "https://img.podbbang.com/pbi/0/201/318/000318201/318201.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2999,
+        "title": "2022년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1031,
+      "media": {
+        "duration": "00:58:51",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24514918,
+      "magazineId": 1778990,
+      "title": "〈뇌과학〉 언어는 운동이다",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "귓속뼈, 베르니케 실어증, 중측두엽, 시인의 탄생",
+      "image": "https://img.podbbang.com/pbi/0/434/318/000318434/318434.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2999,
+        "title": "2022년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1167,
+      "media": {
+        "duration": "00:53:35",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24515000,
+      "magazineId": 1778990,
+      "title": "허공을 향해 뛰다",
+      "subTitle": "최병화, 권아이비, 이우성, 이다겸",
+      "summary": "하이다이빙, 윙슈트, 패러글라이딩",
+      "image": "https://img.podbbang.com/pbi/0/447/318/000318447/318447.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2999,
+        "title": "2022년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 821,
+      "media": {
+        "duration": "01:13:28",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

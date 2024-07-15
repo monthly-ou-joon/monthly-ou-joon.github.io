@@ -1,0 +1,31 @@
+{
+  "id": 24291218,
+  "magazineId": 1778990,
+  "title": "노자, 색∙계, 박목월, 성동격서, 포토메모리",
+  "subTitle": "만년필연구소장 박종진",
+  "summary": "정점에 도달한 자의 세계, 만년필 최고수",
+  "image": "https://img.podbbang.com/pbi/0/236/256/000256236/256236.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2510,
+    "title": "2022년 2월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 481,
+  "media": {
+    "duration": "01:08:22",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2510/1645691692_409100.jpeg?w=750&h=1226\"><p class=\"description\">할아버지가 만들어준 막대기를 쥐고 있는 어린 시절의 박종진 소장 (1974년)<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2510/1645887975_395200.jpeg?w=750&h=1000\"><p class=\"description\">만년필연구소 풍경<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2510/1646016101_929500.jpeg?w=750&h=1125\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2510/1646016101_183800.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박종진 </h1><h2 class=\"description\">만년필연구소장<br><br>사진. LESS </h2></div>"
+}

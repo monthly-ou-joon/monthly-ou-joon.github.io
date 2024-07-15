@@ -1,0 +1,31 @@
+{
+  "id": 24337544,
+  "magazineId": 1778990,
+  "title": "개딸의 미학, 정치 심미화와 예술 정치화",
+  "subTitle": "철학자 박구용",
+  "summary": "개딸과 68 혁명 그리고 칸트, 헤겔, 벤야민",
+  "image": "https://img.podbbang.com/pbi/0/399/272/000272399/272399.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2612,
+    "title": "2022년 4월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1505,
+  "media": {
+    "duration": "00:56:39",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651303135_791000.jpeg?w=750&h=6466\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651303036_605800.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박구용 </h1><h2 class=\"description\">전남대 철학과 교수<br><br>사진. LESS</h2></div>"
+}

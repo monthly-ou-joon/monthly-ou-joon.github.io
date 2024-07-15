@@ -1,0 +1,31 @@
+{
+  "id": 24143773,
+  "magazineId": 1778990,
+  "title": "월말 음악회 3탄, 피리부는 사람들, 이번엔 안 될 줄 알았다.",
+  "subTitle": "최나경, 이광훈 ",
+  "summary": "세계적 플루티스트와 문화재 대금연주자, 그 최초의 콜라보.",
+  "image": "https://img.podbbang.com/pbi/0/758/205/000205758/205758.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2074,
+    "title": "2021년 8월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 156,
+  "media": {
+    "duration": "01:24:17",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2074/1629859705_231500.jpeg?w=750&h=999\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2074/1629859705_796200.jpeg?w=750&h=999\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2074/1629859705_049500.jpeg?w=750&h=999\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2074/1629859705_844100.jpeg?w=750&h=499\"><p class=\"description\"><br><br><br></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트 </h3><h1 class=\"title\">이광훈, 최나경</h1><h2 class=\"description\">사진. 조진섭</h2></div>"
+}

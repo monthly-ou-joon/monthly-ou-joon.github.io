@@ -1,0 +1,31 @@
+{
+  "id": 24591799,
+  "magazineId": 1778990,
+  "title": "[연말특집] 콰르텟X 드디어 등판하다",
+  "subTitle": "바이올리니스트 조윤범, 콰르텟엑스",
+  "summary": "실내악, 실험하다, 예술하다",
+  "image": "https://img.podbbang.com/pbi/0/131/333/000333131/333131.jpg",
+  "isFree": true,
+  "issue": {
+    "id": 3098,
+    "title": "2022년 12월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": true,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1262,
+  "media": {
+    "duration": "01:09:13",
+    "url": "http://file.ssenhosting.com/data1/pb_30174/2212classic.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672377696_637600.jpeg?w=750&h=7479\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672377696_949500.jpeg?w=750&h=1124\"><p class=\"description\">제1 바이올린 조윤범<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672377697_820400.jpeg?w=750&h=500\"><p class=\"description\">제2 바이올린 양승빈<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672377697_279900.jpeg?w=750&h=1124\"><p class=\"description\">첼로 임이랑<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3098/1672377697_949800.jpeg?w=750&h=1124\"><p class=\"description\">비올라 홍성원</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범, 양승빈, 임이랑, 홍성원</h1><h2 class=\"description\">현악사중주단 콰르텟X<br>사진. LESS</h2></div>"
+}

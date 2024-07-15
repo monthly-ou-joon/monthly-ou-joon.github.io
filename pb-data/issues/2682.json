@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24361281,
+      "magazineId": 1778990,
+      "title": "언어 이전, 태초의 리듬을 일컬어, 재즈라 하노니.",
+      "subTitle": "한국재즈수비대X말로 feat.김영대 ",
+      "summary": "스캣, 스윙, 잼, 인터플레이 그리고 라이브",
+      "image": "https://img.podbbang.com/pbi/0/087/280/000280087/280087.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2682,
+        "title": "2022년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 814,
+      "media": {
+        "duration": "01:16:53",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2205jazz.mp3"
+      }
+    },
+    {
+      "id": 24361284,
+      "magazineId": 1778990,
+      "title": "개념의 대혼돈, 대통령 취임사 멀티버스",
+      "subTitle": "철학자 박구용",
+      "summary": "리바이벌과 반지성주의, 존 스튜어트 밀 <자유론>",
+      "image": "https://img.podbbang.com/pbi/0/169/280/000280169/280169.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2682,
+        "title": "2022년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1435,
+      "media": {
+        "duration": "00:53:45",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24361278,
+      "magazineId": 1778990,
+      "title": "보티첼리의 비너스 상륙 작전",
+      "subTitle": "미술사학자 노성두",
+      "summary": "비너스 누드로 고대 상상력과 경합하여.",
+      "image": "https://img.podbbang.com/pbi/0/084/280/000280084/280084.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2682,
+        "title": "2022년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1014,
+      "media": {
+        "duration": "01:06:03",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24361286,
+      "magazineId": 1778990,
+      "title": "아이젠하워의 콜레스테롤 나비효과",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "정치경제사회문화, 인간 신체에 침투하다. ",
+      "image": "https://img.podbbang.com/pbi/0/090/280/000280090/280090.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2682,
+        "title": "2022년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1154,
+      "media": {
+        "duration": "01:00:56",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24361280,
+      "magazineId": 1778990,
+      "title": "코코 샤넬, 블랙 드레스로 세상에 복수, 함.",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "샤넬의 남자, 결핍, 재능, 욕망 그리고 나찌",
+      "image": "https://img.podbbang.com/pbi/0/086/280/000280086/280086.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2682,
+        "title": "2022년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1291,
+      "media": {
+        "duration": "01:11:23",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24361279,
+      "magazineId": 1778990,
+      "title": "베르디, 오페라의 왕이라 불려 마땅한.",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "19세기, 이탈리아, 통일운동, 운동권, 지식인",
+      "image": "https://img.podbbang.com/pbi/0/085/280/000280085/280085.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2682,
+        "title": "2022년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1044,
+      "media": {
+        "duration": "01:01:06",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24361283,
+      "magazineId": 1778990,
+      "title": "압도적 여성 장군, 부하를 능히 취하다.",
+      "subTitle": "국문학자 유광수",
+      "summary": "여성영웅 군담소설 최고봉  <홍계월전>",
+      "image": "https://img.podbbang.com/pbi/0/088/280/000280088/280088.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2682,
+        "title": "2022년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 934,
+      "media": {
+        "duration": "00:57:59",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24361287,
+      "magazineId": 1778990,
+      "title": "프랑스 vs 이탈리아 vs 스페인 - 해변, 음식, 쇼핑, 소도시",
+      "subTitle": "정혜원, 김보영, 이은진",
+      "summary": "20년 차 유럽 관광청 소장들의, 안면몰수 관광배틀",
+      "image": "https://img.podbbang.com/pbi/0/159/280/000280159/280159.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2682,
+        "title": "2022년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 823,
+      "media": {
+        "duration": "01:07:23",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

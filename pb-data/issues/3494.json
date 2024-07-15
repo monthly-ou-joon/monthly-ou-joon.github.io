@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24750134,
+      "magazineId": 1778990,
+      "title": "<참을 수 없는 존재의 가벼움>",
+      "subTitle": "철학자 박구용",
+      "summary": "밀란 쿤데라, 똥의 부정, 참을 수 없는 키치",
+      "image": "https://img.podbbang.com/pbi/0/043/384/000384043/384043.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3494,
+        "title": "2023년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1917,
+      "media": {
+        "duration": "01:01:07",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24750155,
+      "magazineId": 1778990,
+      "title": "몽골 평원 한가운데서 별을 보다",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "외계 행성, 위성, 생명체 그리고 아바타2",
+      "image": "https://img.podbbang.com/pbi/0/077/384/000384077/384077.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3494,
+        "title": "2023년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1219,
+      "media": {
+        "duration": "00:54:31",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2307science.mp3"
+      }
+    },
+    {
+      "id": 24750293,
+      "magazineId": 1778990,
+      "title": "궁녀와 생원의 사랑을 말로, 하다",
+      "subTitle": "국문학자 유광수",
+      "summary": "조선 한문 로맨스 끝판 <상사동 전객기>",
+      "image": "https://img.podbbang.com/pbi/0/066/384/000384066/384066.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3494,
+        "title": "2023년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1082,
+      "media": {
+        "duration": "01:03:11",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24750162,
+      "magazineId": 1778990,
+      "title": "트렁크와 루이비통의 19세기 파리",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "외제니 평행우주- 주가조작 명품쇼핑 알박기",
+      "image": "https://img.podbbang.com/pbi/0/033/384/000384033/384033.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3494,
+        "title": "2023년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1300,
+      "media": {
+        "duration": "00:54:53",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24750147,
+      "magazineId": 1778990,
+      "title": "클래식 지하 서클, 러시아 5인조",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "강력한 소수, 발라키레프를 중심으로.",
+      "image": "https://img.podbbang.com/pbi/0/031/384/000384031/384031.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3494,
+        "title": "2023년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1068,
+      "media": {
+        "duration": "01:01:07",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24750189,
+      "magazineId": 1778990,
+      "title": "원근법 3탄. 유한에 무한을 (경고. 어렵다)",
+      "subTitle": "미술사학자 노성두",
+      "summary": "마사초의 <성삼위일체>, 레오나르도 다빈치 <수태고지>",
+      "image": "https://img.podbbang.com/pbi/0/016/384/000384016/384016.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3494,
+        "title": "2023년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 761,
+      "media": {
+        "duration": "01:03:19",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24750245,
+      "magazineId": 1778990,
+      "title": "김어준 만년필 입문기 Ⅴ. 빈티지",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "워터맨, 몽블랑, 펠리칸, 오로라 그리고 박종진터치",
+      "image": "https://img.podbbang.com/pbi/0/047/384/000384047/384047.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3494,
+        "title": "2023년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 846,
+      "media": {
+        "duration": "00:51:38",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24750141,
+      "magazineId": 1778990,
+      "title": "[납량특집] 구미호만 있는 게 아니다.",
+      "subTitle": "이후남, 김지선, 김경희",
+      "summary": "한중일 요괴 배틀, 누가 누가 더 무섭나",
+      "image": "https://img.podbbang.com/pbi/0/032/384/000384032/384032.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3494,
+        "title": "2023년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 934,
+      "media": {
+        "duration": "01:07:20",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

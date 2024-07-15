@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24169604,
+      "magazineId": 1778990,
+      "title": "캉이, 너는 인마, 변명이 너무 많아",
+      "subTitle": "철학자 박구용",
+      "summary": "라캉의 주이상스를 만난 김어준의 난동 테라피",
+      "image": "https://img.podbbang.com/pbi/0/656/214/000214656/214656.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2157,
+        "title": "2021년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 501,
+      "media": {
+        "duration": "01:15:53",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24169605,
+      "magazineId": 1778990,
+      "title": "[빅히스토리 VIII] 경고. 빙하 찍고 이제 막 우주로 떠나려는 참이여.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "팍스시아노, 그레이트 옥시데이션, 스노우볼, 카본",
+      "image": "https://img.podbbang.com/pbi/0/657/214/000214657/214657.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2157,
+        "title": "2021년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 496,
+      "media": {
+        "duration": "01:17:19",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24169607,
+      "magazineId": 1778990,
+      "title": "조선의 천재 김만중, 8선녀로 구운몽하다",
+      "subTitle": "국문학자 유광수",
+      "summary": "로망, 색즉시공, 에로티시즘, 시뮬라시옹",
+      "image": "https://img.podbbang.com/pbi/0/658/214/000214658/214658.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2157,
+        "title": "2021년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 406,
+      "media": {
+        "duration": "01:31:40",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/210903klit.mp3"
+      }
+    },
+    {
+      "id": 24169609,
+      "magazineId": 1778990,
+      "title": "본업은 불륜, 취미는 음악, 와중에 현대를 열다",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "전문 야반도주 음악가, 바그너의 띠룽띠룽 불협화음",
+      "image": "https://img.podbbang.com/pbi/0/659/214/000214659/214659.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2157,
+        "title": "2021년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 321,
+      "media": {
+        "duration": "01:07:18",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24169610,
+      "magazineId": 1778990,
+      "title": "[인터뷰] \"호랑이 안 무섭다니까, 곰 앞에서 죽은 척 하지마\"",
+      "subTitle": "PD 박수용, 김진만",
+      "summary": "전설적 그리고 대중적 자연 다큐 PD들의 극한 생존기",
+      "image": "https://img.podbbang.com/pbi/0/661/214/000214661/214661.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2157,
+        "title": "2021년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 335,
+      "media": {
+        "duration": "01:20:38",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24169645,
+      "magazineId": 1778990,
+      "title": "“동행이 무서웠다, 길똥이 안락했다 그리고 길이 없었다”",
+      "subTitle": "여행자 간영훈, 강현철",
+      "summary": "바이크와 차박으로, 유라시아를 횡단하다 ",
+      "image": "https://img.podbbang.com/pbi/0/677/214/000214677/214677.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2157,
+        "title": "2021년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 234,
+      "media": {
+        "duration": "01:07:17",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24171432,
+      "magazineId": 1778990,
+      "title": "대어, 괴어, 플라이 낚시, 꾼들의 입낚시 배틀",
+      "subTitle": "프로 신동만, 정명화, 박정, 기자 이영규",
+      "summary": "정규분포곡선을 벗어난 꾼들의 사냥 탐사 예술",
+      "image": "https://img.podbbang.com/pbi/0/324/215/000215324/215324.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2157,
+        "title": "2021년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 172,
+      "media": {
+        "duration": "01:18:54",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24169722,
+      "magazineId": 1778990,
+      "title": "매트릭스 덕후들의 매트릭스 해석/전망 난장",
+      "subTitle": "물리학자 김상욱, 교육자 이병철, 기자 김현수",
+      "summary": "물리학자, 통역가, 기자, 김어준의 매트릭스4 환영식",
+      "image": "https://img.podbbang.com/pbi/0/696/214/000214696/214696.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2157,
+        "title": "2021년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 265,
+      "media": {
+        "duration": "01:05:27",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 24086031,
+  "magazineId": 1778990,
+  "title": "도리짓고땡부터 모라토리움까지. 자연인, 이재명.",
+  "subTitle": "경기도지사 이재명 ",
+  "summary": "산골 빈민에게 밭이 말을 했다. 귀인이 되리니. ",
+  "image": "https://img.podbbang.com/pbi/0/041/194/000194041/194041.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1825,
+    "title": "2021년 6월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 331,
+  "media": {
+    "duration": "01:39:05",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624961390_582600.jpeg?w=750&h=1000\"><p class=\"description\"><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624961870_500100.jpeg?w=750&h=1000\"><p class=\"description\"><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624961390_827500.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">이재명</h1><h2 class=\"description\">경기도지사</h2></div>"
+}

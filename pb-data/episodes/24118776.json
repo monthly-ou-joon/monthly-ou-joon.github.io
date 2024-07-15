@@ -1,0 +1,31 @@
+{
+  "id": 24118776,
+  "magazineId": 1778990,
+  "title": "목은 통로일뿐. 소프라노와 소리꾼, 몸으로 발성하다.",
+  "subTitle": "소프라노 박소영, 소리꾼 이희문",
+  "summary": "월말 음악회 2탄, 오페라와 경기민요의 월드클래스 콜라보. ",
+  "image": "https://img.podbbang.com/pbi/0/055/197/000197055/197055.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1979,
+    "title": "2021년 7월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 213,
+  "media": {
+    "duration": "01:15:50",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627616121_341800.jpeg?w=750&h=1000\"><p class=\"description\"><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627779428_762000.jpeg?w=750&h=1000\"><p class=\"description\"><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627616121_949300.jpeg?w=750&h=1000\"><p class=\"description\"><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627616121_847500.jpeg?w=750&h=1000\"><p class=\"description\"><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627616121_220000.jpeg?w=750&h=500\"><p class=\"description\"><br></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">이희문, 박소영</h1><h2 class=\"description\">소리꾼, 소프라노 </h2></div>"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 23976099,
+  "magazineId": 1778990,
+  "title": "하버드, 옥스퍼드 출신들의 유혈낭자 정치 입문기",
+  "subTitle": "낙선인1 김한규, 낙선인2 최지은",
+  "summary": "속았다, 당했다, 몰랐다, 울었다, 그리고 웃겠다",
+  "image": "https://img.podbbang.com/pbi/0/933/193/000193933/193933.jpg",
+  "isFree": true,
+  "issue": {
+    "id": 1467,
+    "title": "2021년 2월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": true,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 172,
+  "media": {
+    "duration": "01:10:56",
+    "url": "http://file.ssenhosting.com/data1/pb_30174/210204int01.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/01interview102.jpg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/02interview102.jpg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">김한규, 최지은</h1><h2 class=\"description\">더불어민주당 법률 대변인, 국제 대변인</h2></div>"
+}

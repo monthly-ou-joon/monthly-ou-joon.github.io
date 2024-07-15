@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24851304,
+      "magazineId": 1778990,
+      "title": "[연말결산 1+1] 사랑이 필요하다, 그 서구적 원형",
+      "subTitle": "철학자 박구용",
+      "summary": "엘로이즈와 아벨라르, 900년을 살아남은.",
+      "image": "https://img.podbbang.com/pbi/0/522/420/000420522/420522.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3729,
+        "title": "2023년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1609,
+      "media": {
+        "duration": "00:57:43",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24851343,
+      "magazineId": 1778990,
+      "title": "〈뇌과학〉 오류가 우리를 생존케 한다",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "선입견부터 확증편향까지",
+      "image": "https://img.podbbang.com/pbi/0/528/420/000420528/420528.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3729,
+        "title": "2023년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1296,
+      "media": {
+        "duration": "00:50:28",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24851301,
+      "magazineId": 1778990,
+      "title": "패션은 바다에서 태어났다",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "스트라이프 신분 상승기, 세인트 제임스",
+      "image": "https://img.podbbang.com/pbi/0/523/420/000420523/420523.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3729,
+        "title": "2023년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1136,
+      "media": {
+        "duration": "00:54:52",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24850557,
+      "magazineId": 1778990,
+      "title": "수태고지부터 예수 출산까지, 성모 마리아 외전",
+      "subTitle": "미술사학자 노성두",
+      "summary": "임신, 기도 출산, 테오토코스, 발광체, 시크릿 가든, 유니콘",
+      "image": "https://img.podbbang.com/pbi/0/312/420/000420312/420312.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3729,
+        "title": "2023년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1018,
+      "media": {
+        "duration": "01:02:18",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24854644,
+      "magazineId": 1778990,
+      "title": "영화음악의 시작, 스타워즈의 원조, 코른골트",
+      "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+      "summary": "눈사람, 죽음의 도시, 로빈 후드 그리고 음악 탐정",
+      "image": "https://img.podbbang.com/pbi/0/748/421/000421748/421748.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3729,
+        "title": "2023년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 714,
+      "media": {
+        "duration": "00:57:21",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24851342,
+      "magazineId": 1778990,
+      "title": "“여자가 한을 품으면” 장르의 끝판왕",
+      "subTitle": "국문학자 유광수",
+      "summary": "『정을선전』, 월매의 라스트 맨 스탠딩",
+      "image": "https://img.podbbang.com/pbi/0/527/420/000420527/420527.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3729,
+        "title": "2023년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1067,
+      "media": {
+        "duration": "01:00:26",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24850641,
+      "magazineId": 1778990,
+      "title": "직업 집중탐구 시리즈 1탄: 헌터",
+      "subTitle": "박건호, 윤성근",
+      "summary": "역사 컬렉터, 기담 수집가",
+      "image": "https://img.podbbang.com/pbi/0/313/420/000420313/420313.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3729,
+        "title": "2023년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1094,
+      "media": {
+        "duration": "01:13:29",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2312hunter.mp3"
+      }
+    },
+    {
+      "id": 24851303,
+      "magazineId": 1778990,
+      "title": "김어준 만년필 입문기 Ⅹ. 원초적 본능",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "만년필연구소와 중세 수도승",
+      "image": "https://img.podbbang.com/pbi/0/520/420/000420520/420520.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3729,
+        "title": "2023년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 934,
+      "media": {
+        "duration": "00:49:27",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 23998419,
+  "magazineId": 1778990,
+  "title": "역사상 단 2명. 복싱명예의 전당, 장정구 유명우",
+  "subTitle": "WBC 세계챔피언 장정구, WBA 세계챔피언 유명우",
+  "summary": "두 전설, 이빨의 링에서 40년 만에 격돌, 하다.",
+  "image": "https://img.podbbang.com/pbi/0/949/193/000193949/193949.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1571,
+    "title": "2021년 3월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 144,
+  "media": {
+    "duration": "01:18:47",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1571/05_01.jpg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1571/05_02.jpg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1571/05_03.jpg?w=750&h=1000\"><p class=\"description\">장정구 선수</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1571/05_04.jpg?w=750&h=1000\"><p class=\"description\">유명우 선수</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1571/05_05.jpg?w=750&h=500\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">장정구, 유명우</h1><h2 class=\"description\">WBC L.플라이급 챔피언, WBA Jr.플라이급 챔피언</h2></div>"
+}

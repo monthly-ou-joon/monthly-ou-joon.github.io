@@ -1,0 +1,31 @@
+{
+  "id": 24361283,
+  "magazineId": 1778990,
+  "title": "압도적 여성 장군, 부하를 능히 취하다.",
+  "subTitle": "국문학자 유광수",
+  "summary": "여성영웅 군담소설 최고봉  <홍계월전>",
+  "image": "https://img.podbbang.com/pbi/0/088/280/000280088/280088.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2682,
+    "title": "2022년 5월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 931,
+  "media": {
+    "duration": "00:57:59",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2682/1653981937_042000.jpeg?w=750&h=2681\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2682/1653981937_623300.jpeg?w=750&h=500\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">유광수 </h1><h2 class=\"description\">연세대 국문학과 교수 <br>사진. LESS</h2></div>"
+}

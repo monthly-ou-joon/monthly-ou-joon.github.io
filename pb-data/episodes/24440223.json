@@ -1,0 +1,31 @@
+{
+  "id": 24440223,
+  "magazineId": 1778990,
+  "title": "연필심 함부로 깎지 마라",
+  "subTitle": "만년필연구소장 박종진",
+  "summary": "필기구 최고수의 연필 찬양가",
+  "image": "https://img.podbbang.com/pbi/0/354/303/000303354/303354.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2886,
+    "title": "2022년 8월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1187,
+  "media": {
+    "duration": "01:08:02",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2886/1661850287_380200.jpeg?w=750&h=504\"><p class=\"description\">위에서부터 <반 다이크> <카스텔 9000> <코이누르> <칠 없는 연필><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2886/1661850287_739400.jpeg?w=750&h=465\"><p class=\"description\">올려져 있는 게 오리지널 <블랙윙 602>, 밑에 놓인 자루들이 복각된 <블랙윙> 시리즈<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2886/1661850287_459300.jpeg?w=750&h=534\"><p class=\"description\">국산 연필. 위에서부터 <사파이어> <사파이어 70> <옥토끼 100> <옥토끼 70> <옥토끼 60><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2886/1661850287_789200.jpeg?w=750&h=562\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2886/1661922732_357800.jpeg?w=750&h=1000\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2886/1661850288_408200.jpeg?w=750&h=562\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2886/1661850288_319500.jpeg?w=750&h=562\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2886/1661850342_072300.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박종진</h1><h2 class=\"description\">만년필연구소장<br><br>사진. LESS</h2></div>"
+}

@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24666049,
+      "magazineId": 1778990,
+      "title": "젊은 베르테르의 사망, 친밀성",
+      "subTitle": "철학자 박구용",
+      "summary": "현대적 인간의 관계 맺기, 접속",
+      "image": "https://img.podbbang.com/pbi/0/143/355/000355143/355143.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3311,
+        "title": "2023년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1794,
+      "media": {
+        "duration": "00:56:37",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24666173,
+      "magazineId": 1778990,
+      "title": "범인은 이 안에 있다, 마태 추적기",
+      "subTitle": "미술사학자 노성두",
+      "summary": "카라바조 ‘마태의 소명’ 수백 년 논쟁 종결판",
+      "image": "https://img.podbbang.com/pbi/0/180/355/000355180/355180.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3311,
+        "title": "2023년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1056,
+      "media": {
+        "duration": "01:01:17",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2303architecture.mp3"
+      }
+    },
+    {
+      "id": 24666050,
+      "magazineId": 1778990,
+      "title": "잔혹한 아름다움, 알렉산더 맥퀸",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "비운의 천재, 그 상처의 연대기",
+      "image": "https://img.podbbang.com/pbi/0/118/355/000355118/355118.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3311,
+        "title": "2023년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1148,
+      "media": {
+        "duration": "01:03:40",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24666032,
+      "magazineId": 1778990,
+      "title": "클래식으로 Rock 하다, 비발디",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "고아원, 협주곡, 객사, 나이롱 사제",
+      "image": "https://img.podbbang.com/pbi/0/111/355/000355111/355111.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3311,
+        "title": "2023년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1058,
+      "media": {
+        "duration": "00:54:49",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24666042,
+      "magazineId": 1778990,
+      "title": "차, 신체의 일부가 되다",
+      "subTitle": "썬더볼트, 차타는 고구마, 자스민 최",
+      "summary": "직장인 아마추어 레이서 3인",
+      "image": "https://img.podbbang.com/pbi/0/117/355/000355117/355117.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3311,
+        "title": "2023년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 761,
+      "media": {
+        "duration": "01:03:41",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24666051,
+      "magazineId": 1778990,
+      "title": "생명은 작동하는 광물, 오마이사이언스",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "광물과 생물의 공진화, 금속 양이온",
+      "image": "https://img.podbbang.com/pbi/0/123/355/000355123/355123.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3311,
+        "title": "2023년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1024,
+      "media": {
+        "duration": "00:48:07",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24666034,
+      "magazineId": 1778990,
+      "title": "도를 아십니까, 낙산사 판타지",
+      "subTitle": "국문학자 유광수",
+      "summary": "건축헌금 설화 <낙산이대성 관음 정취 조신>",
+      "image": "https://img.podbbang.com/pbi/0/150/355/000355150/355150.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3311,
+        "title": "2023년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 973,
+      "media": {
+        "duration": "00:57:11",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24666036,
+      "magazineId": 1778990,
+      "title": "김어준 만년필 입문기 I",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "만년필의 6德, 엉덩이 골과 루뻬",
+      "image": "https://img.podbbang.com/pbi/0/149/355/000355149/355149.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3311,
+        "title": "2023년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 991,
+      "media": {
+        "duration": "00:46:54",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 24058496,
+  "magazineId": 1778990,
+  "title": "\"내가 육군에 할 말이 좀 많소. 으하하하\"",
+  "subTitle": "공군 (예)대령 권재상, 해군 (예)대령 김용우",
+  "summary": "31년 전투기 조종사와 23년 잠수함 함장의 리얼 밀리터리 ",
+  "image": "https://img.podbbang.com/pbi/0/975/193/000193975/193975.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1753,
+    "title": "2021년 5월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 234,
+  "media": {
+    "duration": "01:10:40",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1753/1622423968_850500.jpeg?w=750&h=999\"><p class=\"description\">권재상 교수 (예)대령<br>전투기 조종 31년</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1753/1622423968_975200.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1753/1622423968_371700.jpeg?w=750&h=1000\"><p class=\"description\">김용우 함장 (예)대령 <br>잠수함 생활 23년 </p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1753/1622423968_695500.jpeg?w=750&h=999\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">권재상, 김용우</h1><h2 class=\"description\">공군 (예)대령, 해군 (예)대령</h2></div>"
+}

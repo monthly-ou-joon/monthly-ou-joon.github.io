@@ -1,0 +1,31 @@
+{
+  "id": 24666032,
+  "magazineId": 1778990,
+  "title": "클래식으로 Rock 하다, 비발디",
+  "subTitle": "바이올리니스트 조윤범",
+  "summary": "고아원, 협주곡, 객사, 나이롱 사제",
+  "image": "https://img.podbbang.com/pbi/0/111/355/000355111/355111.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 3311,
+    "title": "2023년 3월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1054,
+  "media": {
+    "duration": "00:54:49",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3311/1680245718_041300.jpeg?w=750&h=10804\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3311/1680235241_759600.jpeg?w=750&h=1124\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범</h1><h2 class=\"description\">현악사중주단 콰르텟X 제1바이올린<br><br>사진. LESS</h2></div>"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 24491397,
+  "magazineId": 1778990,
+  "title": "슈만, 내 속엔 내가 너무도 많아",
+  "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+  "summary": "브람스파, 다중인격,  스케르초, 트로이메라이, 클라라",
+  "image": "https://img.podbbang.com/pbi/0/930/311/000311930/311930.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2933,
+    "title": "2022년 9월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1088,
+  "media": {
+    "duration": "01:16:47",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2933/1664937711_353100.jpeg?w=750&h=11222\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2933/1664937711_309500.jpeg?w=750&h=1124\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범, 김가람</h1><h2 class=\"description\">현악사중주단 콰르텟X 제1바이올린<br>피아니스트<br><br>사진. LESS</h2></div>"
+}

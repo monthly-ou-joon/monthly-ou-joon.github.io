@@ -1,0 +1,31 @@
+{
+  "id": 24118782,
+  "magazineId": 1778990,
+  "title": "이낙연, 그 선택의 역사 그리고 성대모사",
+  "subTitle": "前 국무총리 이낙연",
+  "summary": "자연인, 이낙연",
+  "image": "https://img.podbbang.com/pbi/0/061/197/000197061/197061.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1979,
+    "title": "2021년 7월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 23,
+  "media": {
+    "duration": "01:26:55",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627779388_261300.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627779388_691400.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">이낙연</h1><h2 class=\"description\">前 국무총리</h2></div>"
+}

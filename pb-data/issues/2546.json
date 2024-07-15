@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24315102,
+      "magazineId": 1778990,
+      "title": "니들, 거긴 춥다. 따뜻한 데로 와라.",
+      "subTitle": "철학자 박구용",
+      "summary": "루소부터 누스바움까지. 혐오 정치의 본질",
+      "image": "https://img.podbbang.com/pbi/0/518/264/000264518/264518.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2546,
+        "title": "2022년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1354,
+      "media": {
+        "duration": "00:52:44",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2203philosophy2.mp3"
+      }
+    },
+    {
+      "id": 24315089,
+      "magazineId": 1778990,
+      "title": "조선 삼각관계 애정소설의 금자탑 <주생전>",
+      "subTitle": "국문학자 유광수",
+      "summary": "군불때는 미녀, 저글링 소녀, 그리고 정자인간  ",
+      "image": "https://img.podbbang.com/pbi/0/510/264/000264510/264510.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2546,
+        "title": "2022년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 946,
+      "media": {
+        "duration": "01:06:02",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24315064,
+      "magazineId": 1778990,
+      "title": "죽음에서 돌아온 자.",
+      "subTitle": "탐험가 박정헌",
+      "summary": "세계 유일의 히말라야 크레바스 생환기",
+      "image": "https://img.podbbang.com/pbi/0/523/264/000264523/264523.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2546,
+        "title": "2022년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 868,
+      "media": {
+        "duration": "01:11:18",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24315063,
+      "magazineId": 1778990,
+      "title": "나는 편도 티겟으로 떠난다. 맨땅에 헤딩파들",
+      "subTitle": "김초롱, 김한솔이&김효섭",
+      "summary": "여행을 대하는 태도의 일대 전환",
+      "image": "https://img.podbbang.com/pbi/0/503/264/000264503/264503.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2546,
+        "title": "2022년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 656,
+      "media": {
+        "duration": "01:06:47",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24315088,
+      "magazineId": 1778990,
+      "title": "1+1 위문공연. 바이킹 후손의 정권교체 멜로디",
+      "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+      "summary": "트롤, 피오르드, 이종격투기. 노르웨이의 그리그",
+      "image": "https://img.podbbang.com/pbi/0/521/264/000264521/264521.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2546,
+        "title": "2022년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 887,
+      "media": {
+        "duration": "01:02:17",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24315062,
+      "magazineId": 1778990,
+      "title": "천재적 오해의 산물, <비트루비우스 인체비례>",
+      "subTitle": "미술사학자 노성두",
+      "summary": "다빈치의 오독, 고대 그리스 난제를 풀다. ",
+      "image": "https://img.podbbang.com/pbi/0/502/264/000264502/264502.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2546,
+        "title": "2022년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 768,
+      "media": {
+        "duration": "01:16:43",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24315090,
+      "magazineId": 1778990,
+      "title": "경고. 버티시오. 마지막 15분까지.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "양자역학의 주기율표, 존재와 공간을 규정하다",
+      "image": "https://img.podbbang.com/pbi/0/535/264/000264535/264535.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2546,
+        "title": "2022년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 890,
+      "media": {
+        "duration": "00:57:54",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24315068,
+      "magazineId": 1778990,
+      "title": "역사 속 만년필 헤게모니 그리고 현몽",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "맥아더, 트루먼, 히틀러, 루즈벨트, 마크 트웨인",
+      "image": "https://img.podbbang.com/pbi/0/508/264/000264508/264508.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2546,
+        "title": "2022년 3월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 834,
+      "media": {
+        "duration": "00:53:07",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

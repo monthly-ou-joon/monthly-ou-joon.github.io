@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24291409,
+      "magazineId": 1778990,
+      "title": "이재명, 윤석열 그리고 시대정신",
+      "subTitle": "철학자 박구용",
+      "summary": "헤겔부터 실용주의까지. 그 증오와 존엄의 갈림길",
+      "image": "https://img.podbbang.com/pbi/0/277/256/000256277/256277.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2510,
+        "title": "2022년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 443,
+      "media": {
+        "duration": "01:04:30",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2202philosophy2.mp3"
+      }
+    },
+    {
+      "id": 24291212,
+      "magazineId": 1778990,
+      "title": "끝판왕 홍성택의 5극지 #4, 로체남벽",
+      "subTitle": "탐험가 홍성택",
+      "summary": "절벽 텐트, 허공 대변, 제트 기류, 낙석 소나기",
+      "image": "https://img.podbbang.com/pbi/0/234/256/000256234/256234.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2510,
+        "title": "2022년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 508,
+      "media": {
+        "duration": "01:17:04",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24291214,
+      "magazineId": 1778990,
+      "title": "<최후의 만찬>, 신성의 자리에 인간을 두다",
+      "subTitle": "미술사학자 노성두",
+      "summary": "다빈치, 시인의 2천년 강냉이를 털어버리다",
+      "image": "https://img.podbbang.com/pbi/0/240/256/000256240/256240.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2510,
+        "title": "2022년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 354,
+      "media": {
+        "duration": "01:01:25",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24291215,
+      "magazineId": 1778990,
+      "title": "스케일 보소. 조선판 전쟁과 평화",
+      "subTitle": "국문학자 유광수",
+      "summary": "최척전, 그 불굴의 사랑. 5개국 블록버스터",
+      "image": "https://img.podbbang.com/pbi/0/239/256/000256239/256239.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2510,
+        "title": "2022년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 321,
+      "media": {
+        "duration": "00:49:12",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24291514,
+      "magazineId": 1778990,
+      "title": "오마이사이언스. 코로나, 인류 수명을 바꾼다",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "mRNA 백신, 제3의 길을 제시하다.",
+      "image": "https://img.podbbang.com/pbi/0/291/256/000256291/256291.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2510,
+        "title": "2022년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 489,
+      "media": {
+        "duration": "00:52:00",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24291494,
+      "magazineId": 1778990,
+      "title": "러시아, 스탈린, 비밀경찰, 블랙리스트",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "쇼스타코비치, 살아남은 자의 슬픔",
+      "image": "https://img.podbbang.com/pbi/0/283/256/000256283/256283.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2510,
+        "title": "2022년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 369,
+      "media": {
+        "duration": "01:00:26",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24291218,
+      "magazineId": 1778990,
+      "title": "노자, 색∙계, 박목월, 성동격서, 포토메모리",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "정점에 도달한 자의 세계, 만년필 최고수",
+      "image": "https://img.podbbang.com/pbi/0/236/256/000256236/256236.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2510,
+        "title": "2022년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 488,
+      "media": {
+        "duration": "01:08:22",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24291219,
+      "magazineId": 1778990,
+      "title": "산삼 로봇, 버섯 가죽, 해조류 플라스틱",
+      "subTitle": "김보영 대표, 사성진 대표, 차완영 대표",
+      "summary": "환경 + 비즈니스, 어스테크의 최전선",
+      "image": "https://img.podbbang.com/pbi/0/681/256/000256681/256681.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2510,
+        "title": "2022년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 207,
+      "media": {
+        "duration": "01:03:59",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

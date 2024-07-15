@@ -1,0 +1,31 @@
+{
+  "id": 24750147,
+  "magazineId": 1778990,
+  "title": "클래식 지하 서클, 러시아 5인조",
+  "subTitle": "바이올리니스트 조윤범",
+  "summary": "강력한 소수, 발라키레프를 중심으로.",
+  "image": "https://img.podbbang.com/pbi/0/031/384/000384031/384031.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 3494,
+    "title": "2023년 7월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1067,
+  "media": {
+    "duration": "01:01:07",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3494/1690775629_687500.jpeg?w=750&h=11405\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3494/1690775629_299700.jpeg?w=750&h=3500\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3494/1690775629_418000.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범</h1><h2 class=\"description\">현악4중주단 콰르텟X 제1바이올린<br/><br/>사진. LESS</h2></div>"
+}

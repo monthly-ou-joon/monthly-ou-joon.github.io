@@ -1,0 +1,31 @@
+{
+  "id": 24094574,
+  "magazineId": 1778990,
+  "title": "놀라지 마라, 이거 생각보다 고품격이다.",
+  "subTitle": "기타리스트 박규희, 하모니시스트 박종성",
+  "summary": "월클 클래식 기타리스트, 하모니시스트의 월말 연주회",
+  "image": "https://img.podbbang.com/pbi/0/039/194/000194039/194039.jpg",
+  "isFree": true,
+  "issue": {
+    "id": 1825,
+    "title": "2021년 6월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": true,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 247,
+  "media": {
+    "duration": "01:34:25",
+    "url": "http://file.ssenhosting.com/data1/pb_30174/210605instRE.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_631600.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_013600.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_952400.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_297800.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_676400.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_190300.jpeg?w=750&h=499\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_401200.jpeg?w=750&h=500\"><p class=\"description\">박종성 하모니시스트의 가방</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624512881_488900.jpeg?w=750&h=499\"><p class=\"description\">트레몰로 하모니카</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624512881_838000.jpeg?w=750&h=500\"><p class=\"description\">크로매틱 하모니카</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624512881_234000.jpeg?w=750&h=500\"><p class=\"description\">블루스 하모니카(다이어토닉 하모니카)</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_138800.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_733600.jpeg?w=750&h=999\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_142000.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_893200.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624953450_597100.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박규희, 박종성</h1><h2 class=\"description\">클래식 기타리스트, 하모니시스트</h2></div>"
+}

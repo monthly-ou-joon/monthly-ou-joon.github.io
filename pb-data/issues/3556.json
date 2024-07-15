@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "id": 24768783,
+      "magazineId": 1778990,
+      "title": "<2023 김어준+> 탁현민 총감독",
+      "subTitle": "공지",
+      "summary": "토크, 뮤직, 댄스, 레슬링, 퍼포먼스의 대통섭 버라이어티쇼, 사전 펀딩",
+      "image": "https://img.podbbang.com/pbi/0/514/391/000391514/391514.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 703,
+      "media": {
+        "duration": "00:06:27",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2308notice.mp3"
+      }
+    },
+    {
+      "id": 24769247,
+      "magazineId": 1778990,
+      "title": "프랑크푸르트 학파와 <계몽의 변증법>",
+      "subTitle": "철학자 박구용",
+      "summary": "계몽의 시대와 은폐된 폭력, 그럼에도 별일 없이 산다.",
+      "image": "https://img.podbbang.com/pbi/0/515/391/000391515/391515.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1706,
+      "media": {
+        "duration": "00:49:06",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2308philosophy.mp3"
+      }
+    },
+    {
+      "id": 24769389,
+      "magazineId": 1778990,
+      "title": "몽골 탐사대와 오펜하이머",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "맨해튼 프로젝트 - 카본 14번, 뉴벤, 케이먼, 마이트너",
+      "image": "https://img.podbbang.com/pbi/0/571/391/000391571/391571.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1089,
+      "media": {
+        "duration": "00:52:19",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24768782,
+      "magazineId": 1778990,
+      "title": "<비텐베르크 제단화> 루터의 성서주의를 담다",
+      "subTitle": "미술사학자 노성두",
+      "summary": "원탁, 후광, 세례, 화이트 와인, 고해성사, 핏자국",
+      "image": "https://img.podbbang.com/pbi/0/328/391/000391328/391328.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 908,
+      "media": {
+        "duration": "01:04:51",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24769257,
+      "magazineId": 1778990,
+      "title": "패션 행동가, 스텔라 매카트니",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "비건주의, 지속가능한 패션의 기원",
+      "image": "https://img.podbbang.com/pbi/0/521/391/000391521/391521.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1091,
+      "media": {
+        "duration": "00:51:00",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24768787,
+      "magazineId": 1778990,
+      "title": "핀란드에 유럽 시민권을 부여하다",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "장 시벨리우스, 명성과 재능의 임계",
+      "image": "https://img.podbbang.com/pbi/0/493/391/000391493/391493.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 976,
+      "media": {
+        "duration": "01:04:49",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24768876,
+      "magazineId": 1778990,
+      "title": "현모양처 판소리계 리벤지극",
+      "subTitle": "국문학자 유광수",
+      "summary": "조선 걸크러시의 원형, <이춘풍전>",
+      "image": "https://img.podbbang.com/pbi/0/355/391/000391355/391355.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 977,
+      "media": {
+        "duration": "00:57:17",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24768759,
+      "magazineId": 1778990,
+      "title": "김어준 만년필 입문기 Ⅵ",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "일본3대 만년필과 패션 브랜드",
+      "image": "https://img.podbbang.com/pbi/0/369/391/000391369/391369.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 801,
+      "media": {
+        "duration": "00:46:46",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24769249,
+      "magazineId": 1778990,
+      "title": "음식 시리즈 첫 번째, 밥 하나 면 하나",
+      "subTitle": "조은종, 정다현",
+      "summary": "음식에 미친, 직업이거나 취미이거나",
+      "image": "https://img.podbbang.com/pbi/0/533/391/000391533/391533.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3556,
+        "title": "2023년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 829,
+      "media": {
+        "duration": "00:45:21",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 9
+  }
+}

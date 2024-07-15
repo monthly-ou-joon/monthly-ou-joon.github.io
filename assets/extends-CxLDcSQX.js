@@ -1,0 +1,1 @@
+import{r as s}from"./index-BabtBpse.js";var u,o=s;o.createRoot,u=o.hydrateRoot;function e(){return e=Object.assign?Object.assign.bind():function(n){for(var r=1;r<arguments.length;r++){var a=arguments[r];for(var t in a)({}).hasOwnProperty.call(a,t)&&(n[t]=a[t])}return n},e.apply(null,arguments)}export{e as _,u as h};

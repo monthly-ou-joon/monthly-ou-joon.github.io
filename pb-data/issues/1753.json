@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24058492,
+      "magazineId": 1778990,
+      "title": "사르트르식 마케팅의 정수 \"자유롭도록 저주 받다\"",
+      "subTitle": "철학자 박구용",
+      "summary": "실존주의적 계약결혼, 그 실존적 실체를 폭로하다. ",
+      "image": "https://img.podbbang.com/pbi/0/971/193/000193971/193971.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1753,
+        "title": "2021년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 614,
+      "media": {
+        "duration": "01:31:23",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24058493,
+      "magazineId": 1778990,
+      "title": "드디어 등장한 플레이보이 음악가, 브라바!",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "푸치니, 오페라의 패러다임을 홀로, 전환하다.",
+      "image": "https://img.podbbang.com/pbi/0/973/193/000193973/193973.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 1753,
+        "title": "2021년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 391,
+      "media": {
+        "duration": "01:22:18",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/210502class.mp3"
+      }
+    },
+    {
+      "id": 24058496,
+      "magazineId": 1778990,
+      "title": "\"내가 육군에 할 말이 좀 많소. 으하하하\"",
+      "subTitle": "공군 (예)대령 권재상, 해군 (예)대령 김용우",
+      "summary": "31년 전투기 조종사와 23년 잠수함 함장의 리얼 밀리터리 ",
+      "image": "https://img.podbbang.com/pbi/0/975/193/000193975/193975.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1753,
+        "title": "2021년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 238,
+      "media": {
+        "duration": "01:10:40",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24058497,
+      "magazineId": 1778990,
+      "title": "<빅히스토리 Ⅳ> 박사님, 그 문은 아직 열지 말아주소서. 제발.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "인간 감정과 파충류 갈비뼈의 2억 5천만년 인과를 말하다.",
+      "image": "https://img.podbbang.com/pbi/0/976/193/000193976/193976.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 1753,
+        "title": "2021년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 588,
+      "media": {
+        "duration": "01:07:53",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/210504sci.mp3"
+      }
+    },
+    {
+      "id": 24058516,
+      "magazineId": 1778990,
+      "title": "<인터뷰> 대한민국인 자기 객관화 프로젝트 #1",
+      "subTitle": "미국인 체리, 몽골인 이수, 카자흐스탄인 오네게, 러시아인 예나",
+      "summary": "김어준보다 발음 정확한 여성 '포리너' 4인을 만나다.",
+      "image": "https://img.podbbang.com/pbi/0/979/193/000193979/193979.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1753,
+        "title": "2021년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 232,
+      "media": {
+        "duration": "01:44:20",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24058513,
+      "magazineId": 1778990,
+      "title": "당찬 춘향, 맹한 몽룡, 억울 학도. 그 혁명적 전복.",
+      "subTitle": "국문학자 유광수",
+      "summary": "저항 서사의 최전선, 조선의 춘향을 만나다.",
+      "image": "https://img.podbbang.com/pbi/0/978/193/000193978/193978.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1753,
+        "title": "2021년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 398,
+      "media": {
+        "duration": "00:59:42",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24058526,
+      "magazineId": 1778990,
+      "title": "트로이 목마를 말하는자, 그리스식 \"집에 가\"를 들려주마.",
+      "subTitle": "서양고전학자 강대진",
+      "summary": "서양 스토리텔링의 기원 『일리아스』, \n신들의 치정극을 해부하다.",
+      "image": "https://img.podbbang.com/pbi/0/980/193/000193980/193980.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1753,
+        "title": "2021년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 257,
+      "media": {
+        "duration": "01:14:29",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24058498,
+      "magazineId": 1778990,
+      "title": "진화생물학 직계손의 『이기적 유전자』 오독 해제기",
+      "subTitle": "진화생물학자 전중환",
+      "summary": "두번째 다윈의 유니버설 다윈이즘, 직독 직해하다.",
+      "image": "https://img.podbbang.com/pbi/0/977/193/000193977/193977.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1753,
+        "title": "2021년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 263,
+      "media": {
+        "duration": "00:55:50",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

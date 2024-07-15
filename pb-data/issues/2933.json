@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24491397,
+      "magazineId": 1778990,
+      "title": "슈만, 내 속엔 내가 너무도 많아",
+      "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+      "summary": "브람스파, 다중인격,  스케르초, 트로이메라이, 클라라",
+      "image": "https://img.podbbang.com/pbi/0/930/311/000311930/311930.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2933,
+        "title": "2022년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1088,
+      "media": {
+        "duration": "01:16:47",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24491394,
+      "magazineId": 1778990,
+      "title": "구찌의 멤버 yuji, 막장 가족 흥망성쇠",
+      "subTitle": "패션큐레이터 김홍기 ",
+      "summary": "라 돌체 비타, 독토레, 사치, 영매, 청부살인",
+      "image": "https://img.podbbang.com/pbi/0/928/311/000311928/311928.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2933,
+        "title": "2022년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1264,
+      "media": {
+        "duration": "00:55:32",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24487377,
+      "magazineId": 1778990,
+      "title": "대통령의 미스테리 외교 그리고 실체/주체",
+      "subTitle": "철학자 박구용",
+      "summary": "각자도생 행복론,  에피쿠로스 <쾌락> 김어준 주해본",
+      "image": "https://img.podbbang.com/pbi/0/818/310/000310818/310818.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2933,
+        "title": "2022년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1813,
+      "media": {
+        "duration": "01:06:44",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24487365,
+      "magazineId": 1778990,
+      "title": "흔들리지 않는 편안함, 빅에서 크로스까지.",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "볼펜, 필기구의 왕족을 폐하다",
+      "image": "https://img.podbbang.com/pbi/0/077/418/000418077/418077.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2933,
+        "title": "2022년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1206,
+      "media": {
+        "duration": "01:00:23",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2209ballpen2.mp3"
+      }
+    },
+    {
+      "id": 24486908,
+      "magazineId": 1778990,
+      "title": "〈뇌과학〉 꿈은 동사로 가득하다.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "노르에피네프린, 리플레이, 클렌징, 자각몽",
+      "image": "https://img.podbbang.com/pbi/0/681/310/000310681/310681.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2933,
+        "title": "2022년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1332,
+      "media": {
+        "duration": "00:57:08",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24486887,
+      "magazineId": 1778990,
+      "title": "1790년 강진 노파 살인사건, 『은애전』",
+      "subTitle": "국문학자 유광수",
+      "summary": "정조의 <로얄 르포르타주>, 정의란 무엇인가",
+      "image": "https://img.podbbang.com/pbi/0/672/310/000310672/310672.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2933,
+        "title": "2022년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1052,
+      "media": {
+        "duration": "00:43:32",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24486885,
+      "magazineId": 1778990,
+      "title": "목숨 건, 무쓸모 대회, 아마추어 끝판왕들",
+      "subTitle": "류명걸, 박종하, 최홍석",
+      "summary": "다카르 랠리, 실크로드 마운틴 레이스, 극지 마라톤 ",
+      "image": "https://img.podbbang.com/pbi/0/671/310/000310671/310671.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2933,
+        "title": "2022년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 900,
+      "media": {
+        "duration": "01:01:03",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24486906,
+      "magazineId": 1778990,
+      "title": "바닥 찍어 봤냐? 물에, 중독 되다.",
+      "subTitle": "오혜선, 박민주, 홍민지, 한규범, 김근우",
+      "summary": "30대 회사원들, 프리다이빙 입문기",
+      "image": "https://img.podbbang.com/pbi/0/680/310/000310680/310680.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2933,
+        "title": "2022년 9월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 797,
+      "media": {
+        "duration": "01:04:47",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

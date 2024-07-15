@@ -1,0 +1,31 @@
+{
+  "id": 24244834,
+  "magazineId": 1778990,
+  "title": "1+1. 갈아탄 성덕과의 철학 결산.",
+  "subTitle": "철학자 박구용, 교육학자 시옥진",
+  "summary": "\"2021\" 칸트부터 아리스토텔레스까지.",
+  "image": "https://img.podbbang.com/pbi/0/391/240/000240391/240391.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2327,
+    "title": "2021년 12월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 371,
+  "media": {
+    "duration": "01:09:25",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2327/1640914918_403900.jpeg?w=750&h=1778\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2327/1640914918_721400.jpeg?w=750&h=3207\"><p class=\"description\"><br><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2327/1640846409_361300.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박구용+시옥진</h1><h2 class=\"description\">전남대학교 철학과 교수<br>구미대학교 사회복지과 교수<br><br>사진.LESS</h2></div>"
+}

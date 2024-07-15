@@ -1,0 +1,31 @@
+{
+  "id": 23941253,
+  "magazineId": 1778990,
+  "title": "신과 함께 - 신부 목사 승려 이맘의 무규칙이종격투",
+  "subTitle": "홍창진, 채수일, 정림, 알리",
+  "summary": "돈, 술, 고기, 연애, 폭탄, 각성. 사도의 진실을 말하다.",
+  "image": "https://img.podbbang.com/pbi/0/900/193/000193900/193900.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1379,
+    "title": "2021년 1월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 217,
+  "media": {
+    "duration": "01:10:16",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/01religion.jpg?w=750&h=1000\"><p class=\"description\">알리 이맘</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/02religion.jpg?w=750&h=1000\"><p class=\"description\">홍창진 신부</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/03religion.jpg?w=750&h=1000\"><p class=\"description\">정림 스님</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/04religion.jpg?w=750&h=1000\"><p class=\"description\">채수일 목사</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/05religion.jpg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/06religion.jpg?w=750&h=500\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/07religion.jpg?w=750&h=500\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/08religion.jpg?w=750&h=500\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/09religion.jpg?w=750&h=500\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/10religion.jpg?w=750&h=500\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/11religion.jpg?w=750&h=500\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">홍창진, 채수일, 정림, 무하마드 알리</h1><h2 class=\"description\">천주교수원교구 기산성당 주임신부, 한국기독교 장로회 경동교회 담임목사, 동가숙서가식 승려, 무소속 이맘</h2></div>"
+}

@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24939924,
+      "magazineId": 1778990,
+      "title": "칸트 『판단력 비판』 + 철학 원정대",
+      "subTitle": "철학자 박구용",
+      "summary": "몰관심적 기쁨, 숭고미, 천재의 조건",
+      "image": "https://img.podbbang.com/pbi/0/658/452/000452658/452658.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3948,
+        "title": "2024년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1902,
+      "media": {
+        "duration": "00:50:11",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2405PhilosophyFINAL96.mp3"
+      }
+    },
+    {
+      "id": 24939903,
+      "magazineId": 1778990,
+      "title": "모기를 내 팔뚝에서 사육했다",
+      "subTitle": "양영철, 최득수, 김동건",
+      "summary": "해충연구가들 - 모기, 이, 빈대, 파리, 하루살이 ",
+      "image": "https://img.podbbang.com/pbi/0/667/452/000452667/452667.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3948,
+        "title": "2024년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1015,
+      "media": {
+        "duration": "01:01:51",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24939902,
+      "magazineId": 1778990,
+      "title": "직업탐구 IV - 자연다큐 PD 3인방",
+      "subTitle": "최삼규, 서준, 김규섭",
+      "summary": "세렝게티에는 라이언킹이 없다",
+      "image": "https://img.podbbang.com/pbi/0/606/452/000452606/452606.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3948,
+        "title": "2024년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1117,
+      "media": {
+        "duration": "01:05:05",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24939992,
+      "magazineId": 1778990,
+      "title": "김어준 만년필 사용기",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "프로젝트 만, 두근두근 개봉박두",
+      "image": "https://img.podbbang.com/pbi/0/654/452/000452654/452654.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3948,
+        "title": "2024년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 991,
+      "media": {
+        "duration": "00:49:23",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24939900,
+      "magazineId": 1778990,
+      "title": "패션 수도사, 직물로 조각한 발렌시아가",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "오트쿠튀르, 플라멩코, 프랑코, 쿠션부역",
+      "image": "https://img.podbbang.com/pbi/0/605/452/000452605/452605.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3948,
+        "title": "2024년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1193,
+      "media": {
+        "duration": "00:59:48",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24939927,
+      "magazineId": 1778990,
+      "title": "뇌과학의 하드 프라블럼, 컨셔스니스",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "에델먼, 크릭, 토노니 의식 탐구 최전선",
+      "image": "https://img.podbbang.com/pbi/0/657/452/000452657/452657.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3948,
+        "title": "2024년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 954,
+      "media": {
+        "duration": "00:47:19",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24940110,
+      "magazineId": 1778990,
+      "title": "조선의 블랙 위도우 + 캡틴 마블",
+      "subTitle": "국문학자 유광수",
+      "summary": "여성 영웅 대체 역사물 『박씨전』",
+      "image": "https://img.podbbang.com/pbi/0/697/452/000452697/452697.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3948,
+        "title": "2024년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 990,
+      "media": {
+        "duration": "01:10:18",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24940045,
+      "magazineId": 1778990,
+      "title": "성악 IV feat. 메조소프라노 장은 + 김가람",
+      "subTitle": "바이올리니스트 조윤범, 메조 소프라노 장은, 피아니스트 김가람, ",
+      "summary": "카르멘, 악녀, 하녀, 바지",
+      "image": "https://img.podbbang.com/pbi/0/672/452/000452672/452672.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3948,
+        "title": "2024년 5월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1003,
+      "media": {
+        "duration": "01:11:52",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

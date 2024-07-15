@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "id": 24244833,
+      "magazineId": 1778990,
+      "title": "이번엔 제법, 쉽다! 인간은 왜 인간인가?",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "뇌속의 지니. working memory.  ",
+      "image": "https://img.podbbang.com/pbi/0/390/240/000240390/240390.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 504,
+      "media": {
+        "duration": "00:57:01",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24247919,
+      "magazineId": 1778990,
+      "title": "1+1. 월클과 월말이 떠들다, 연주하다.",
+      "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+      "summary": "연주자, 지휘자, 오케스트라, 그 뒷담화.",
+      "image": "https://img.podbbang.com/pbi/0/472/241/000241472/241472.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 259,
+      "media": {
+        "duration": "01:21:33",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2112classicRE.mp3"
+      }
+    },
+    {
+      "id": 24244834,
+      "magazineId": 1778990,
+      "title": "1+1. 갈아탄 성덕과의 철학 결산.",
+      "subTitle": "철학자 박구용, 교육학자 시옥진",
+      "summary": "\"2021\" 칸트부터 아리스토텔레스까지.",
+      "image": "https://img.podbbang.com/pbi/0/391/240/000240391/240391.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 378,
+      "media": {
+        "duration": "01:09:25",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24244915,
+      "magazineId": 1778990,
+      "title": "조선의 킬빌, 검녀전과 쌍둥이 여검객.",
+      "subTitle": "국문학자 유광수",
+      "summary": "칼춤, 복수, 신분세탁, 카우치 서핑.",
+      "image": "https://img.podbbang.com/pbi/0/411/240/000240411/240411.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 296,
+      "media": {
+        "duration": "01:01:40",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24244947,
+      "magazineId": 1778990,
+      "title": "이제 조각이다. 라오콘 군상 논쟁, 종결짓다.",
+      "subTitle": "미술사학자 노성두",
+      "summary": "또 떠내려간 곰브리치, 카피와 레플리카.",
+      "image": "https://img.podbbang.com/pbi/0/426/240/000240426/240426.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 292,
+      "media": {
+        "duration": "01:17:54",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24244836,
+      "magazineId": 1778990,
+      "title": "끝판왕 홍성택의 5극지 탐험, 두 번째 이야기.",
+      "subTitle": "탐험가 홍성택",
+      "summary": "개썰매는 타는 것이 아니다. ",
+      "image": "https://img.podbbang.com/pbi/0/393/240/000240393/240393.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 484,
+      "media": {
+        "duration": "01:30:33",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24244835,
+      "magazineId": 1778990,
+      "title": "생활 명품 시리즈. 필기구의 왕, 만년필.",
+      "subTitle": "만년필연구소장 박종진, 캘리그라퍼 김상희",
+      "summary": "만년필 히포크라테스와 글씨 메소드연기.",
+      "image": "https://img.podbbang.com/pbi/0/392/240/000240392/240392.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 416,
+      "media": {
+        "duration": "01:13:13",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24244932,
+      "magazineId": 1778990,
+      "title": "1city 1month 그리고 파인 다이닝.",
+      "subTitle": "백종민+김은덕 부부, 정연주 작가 ",
+      "summary": "고생 말고. 먹고. 마시고. 놀고. 싸우고.",
+      "image": "https://img.podbbang.com/pbi/0/425/240/000240425/240425.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 182,
+      "media": {
+        "duration": "01:06:30",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24244948,
+      "magazineId": 1778990,
+      "title": "2021 월말 김어준, 독자와의 만남, 풀버전",
+      "subTitle": "박구용x유광수x조윤범 그리고 여러분",
+      "summary": "모두가, 마이크를 잡다.",
+      "image": "https://img.podbbang.com/pbi/0/427/240/000240427/240427.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2327,
+        "title": "2021년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 310,
+      "media": {
+        "duration": "01:27:23",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2112meetingfullRE.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 9
+  }
+}

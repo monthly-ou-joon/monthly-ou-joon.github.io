@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24194935,
+      "magazineId": 1778990,
+      "title": "마약, 알코올, 도박. \"나는 중독의 끝에 가보았다.\"",
+      "subTitle": "목사 임상현, 신부 허근, 상담사 김형주",
+      "summary": "마약 엘리트코스목사 , 폐쇄병동 알콜신부, 정선행 마카오김.",
+      "image": "https://img.podbbang.com/pbi/0/797/224/000224797/224797.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2221,
+        "title": "2021년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 225,
+      "media": {
+        "duration": "01:20:03",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24193586,
+      "magazineId": 1778990,
+      "title": "피렌체 두오모 고딕인가, 곰브리치를 다시 한 번 보내다.",
+      "subTitle": "미술사학자 노성두",
+      "summary": "르네상스 건축가 브루넬레스키의 천재적 회오리 공법.",
+      "image": "https://img.podbbang.com/pbi/0/467/223/000223467/223467.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2221,
+        "title": "2021년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 317,
+      "media": {
+        "duration": "01:07:59",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2110arc.mp3"
+      }
+    },
+    {
+      "id": 24194947,
+      "magazineId": 1778990,
+      "title": "플라톤, 그리스로 역주행하다 손바닥 王 자를 만나다.",
+      "subTitle": "철학자 박구용",
+      "summary": "이데아, 시인추방, 영혼불멸, 민주주의, 국가론, 그 의미과잉. ",
+      "image": "https://img.podbbang.com/pbi/0/463/223/000223463/223463.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2221,
+        "title": "2021년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 448,
+      "media": {
+        "duration": "01:00:29",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24194939,
+      "magazineId": 1778990,
+      "title": "[빅히스토리 IX] 경고, 정신이 혼미해진다. 별의 탄생, 그 무지막지한 서막.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "양전자, 반전자, 반물질, 베타 붕괴, 쿼크, 수퍼노바. 아, 몰라.  ",
+      "image": "https://img.podbbang.com/pbi/0/459/223/000223459/223459.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2221,
+        "title": "2021년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 530,
+      "media": {
+        "duration": "01:24:23",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24194944,
+      "magazineId": 1778990,
+      "title": "구운몽 스핀오프, 수컷은 절대 진화하지 않는다.",
+      "subTitle": "국문학자 유광수",
+      "summary": "조선 양반 남성 판타지의 끝판왕, 8선녀 밀착 연애기. ",
+      "image": "https://img.podbbang.com/pbi/0/462/223/000223462/223462.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2221,
+        "title": "2021년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 345,
+      "media": {
+        "duration": "01:16:28",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24195867,
+      "magazineId": 1778990,
+      "title": "브람스 대 바그너, 그리고 클라라의 가스라이팅.",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "고전과 현대의 갈림길에서, 사랑과 전통을 수호하다가...",
+      "image": "https://img.podbbang.com/pbi/0/780/223/000223780/223780.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2221,
+        "title": "2021년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 310,
+      "media": {
+        "duration": "00:54:24",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24194849,
+      "magazineId": 1778990,
+      "title": "대한민국 최초이자 유일한 단독, 무기항, 무원조, 요트 세계일주",
+      "subTitle": "김승진 선장",
+      "summary": "알바트로스에 삥 뜯기고 해적에 쫓기는 209일의 해양 탐험기.",
+      "image": "https://img.podbbang.com/pbi/0/771/226/000226771/226771.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2221,
+        "title": "2021년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 278,
+      "media": {
+        "duration": "01:17:34",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24195514,
+      "magazineId": 1778990,
+      "title": "부록ㅣ우주, 중세, 생태, 배신, 메시아, 무역, 대하 SF의 기원 <듄>",
+      "subTitle": "작가 이경희 & 임태운, 평론가 이용철",
+      "summary": "1965년 프랭크 허버트와 2021년 드니 빌뇌브의 만남 (스포일러 포함) ",
+      "image": "https://img.podbbang.com/pbi/0/721/223/000223721/223721.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2221,
+        "title": "2021년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 252,
+      "media": {
+        "duration": "01:19:26",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

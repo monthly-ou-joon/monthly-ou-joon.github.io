@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24591852,
+      "magazineId": 1778990,
+      "title": "[연말결산] 청취자 인게이지먼트, 어그레시브하게",
+      "subTitle": "철학자 박구용",
+      "summary": "청취자 FGI, 홉스부터 멜랑꼴리까지",
+      "image": "https://img.podbbang.com/pbi/0/138/333/000333138/333138.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3098,
+        "title": "2022년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1538,
+      "media": {
+        "duration": "00:51:37",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24591799,
+      "magazineId": 1778990,
+      "title": "[연말특집] 콰르텟X 드디어 등판하다",
+      "subTitle": "바이올리니스트 조윤범, 콰르텟엑스",
+      "summary": "실내악, 실험하다, 예술하다",
+      "image": "https://img.podbbang.com/pbi/0/131/333/000333131/333131.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3098,
+        "title": "2022년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1263,
+      "media": {
+        "duration": "01:09:13",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2212classic.mp3"
+      }
+    },
+    {
+      "id": 24591866,
+      "magazineId": 1778990,
+      "title": "버버리, 체크무늬와 상징조작",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "전쟁과 모험, 남성과 계급, 품격과 스웩",
+      "image": "https://img.podbbang.com/pbi/0/157/333/000333157/333157.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3098,
+        "title": "2022년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1445,
+      "media": {
+        "duration": "01:05:15",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24591856,
+      "magazineId": 1778990,
+      "title": "\"이거는 걸작입니다.\"",
+      "subTitle": "미술사학자 노성두",
+      "summary": "미론의  <원반 던지는 남자> 전지적 작가시점",
+      "image": "https://img.podbbang.com/pbi/0/139/333/000333139/333139.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3098,
+        "title": "2022년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1073,
+      "media": {
+        "duration": "01:07:19",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24591868,
+      "magazineId": 1778990,
+      "title": "생물이 물리를 만나, 기절초풍하다. (경고)",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "프리에너지, 라그랑지언, 마코프 블랭킷",
+      "image": "https://img.podbbang.com/pbi/0/144/333/000333144/333144.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3098,
+        "title": "2022년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1443,
+      "media": {
+        "duration": "00:55:28",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24591807,
+      "magazineId": 1778990,
+      "title": "<김안국전> 책 읽어주는 여자",
+      "subTitle": "국문학자 유광수",
+      "summary": "조선 미남 난독증 극복기",
+      "image": "https://img.podbbang.com/pbi/0/132/333/000333132/333132.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3098,
+        "title": "2022년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1181,
+      "media": {
+        "duration": "00:45:24",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24591803,
+      "magazineId": 1778990,
+      "title": "고양이의 입장, 말의 손톱, 돌고래의 부검",
+      "subTitle": "옥수철, 이훈학, 이영란",
+      "summary": "고양이 탐정, 장제사, 해양동물 수의사",
+      "image": "https://img.podbbang.com/pbi/0/137/333/000333137/333137.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3098,
+        "title": "2022년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 967,
+      "media": {
+        "duration": "01:02:13",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24591865,
+      "magazineId": 1778990,
+      "title": "30대 여성 솔로 캠퍼들의 캠핑예찬",
+      "subTitle": "성주하, 강시아, 유민영",
+      "summary": "부시크래프트, 백패킹, 차박",
+      "image": "https://img.podbbang.com/pbi/0/142/333/000333142/333142.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3098,
+        "title": "2022년 12월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 967,
+      "media": {
+        "duration": "01:13:34",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

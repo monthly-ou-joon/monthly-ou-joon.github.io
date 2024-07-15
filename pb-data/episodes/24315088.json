@@ -1,0 +1,31 @@
+{
+  "id": 24315088,
+  "magazineId": 1778990,
+  "title": "1+1 위문공연. 바이킹 후손의 정권교체 멜로디",
+  "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+  "summary": "트롤, 피오르드, 이종격투기. 노르웨이의 그리그",
+  "image": "https://img.podbbang.com/pbi/0/521/264/000264521/264521.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2546,
+    "title": "2022년 3월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 886,
+  "media": {
+    "duration": "01:02:17",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2546/1648711033_667600.jpeg?w=750&h=10124\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2546/1648708258_791500.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범X김가람</h1><h2 class=\"description\">현악사중주단 콰르텟X 제1바이올린<br>피아니스트 <br><br>사진. LESS</h2></div>"
+}

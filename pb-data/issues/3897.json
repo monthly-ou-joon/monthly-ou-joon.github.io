@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24920904,
+      "magazineId": 1778990,
+      "title": "총선 이후, 진보의 미래",
+      "subTitle": "철학자 박구용",
+      "summary": "상상 경쟁과 바움 가르텐의 미학",
+      "image": "https://img.podbbang.com/pbi/0/319/446/000446319/446319.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3897,
+        "title": "2024년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 2210,
+      "media": {
+        "duration": "00:47:30",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24920789,
+      "magazineId": 1778990,
+      "title": "가발 절대주의 + 패션 원정대",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "이발사, 페리위그, 권력과 도덕성의 상징",
+      "image": "https://img.podbbang.com/pbi/0/324/446/000446324/446324.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3897,
+        "title": "2024년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1536,
+      "media": {
+        "duration": "01:16:24",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24920883,
+      "magazineId": 1778990,
+      "title": "오페레타의 기원, 자크 오펜바흐",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "<지옥의 오르페> + <호프만의 이야기>",
+      "image": "https://img.podbbang.com/pbi/0/310/446/000446310/446310.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3897,
+        "title": "2024년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1052,
+      "media": {
+        "duration": "00:57:55",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24920907,
+      "magazineId": 1778990,
+      "title": "시각, 인간에게 은유를 선물하다",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "의미의 출현, 로고스부터 알고리즘까지",
+      "image": "https://img.podbbang.com/pbi/0/320/446/000446320/446320.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3897,
+        "title": "2024년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1174,
+      "media": {
+        "duration": "00:42:27",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24920896,
+      "magazineId": 1778990,
+      "title": "조선 남성 판타지를 뒤집다",
+      "subTitle": "국문학자 유광수",
+      "summary": "사랑에 죽다, 『위경천전』",
+      "image": "https://img.podbbang.com/pbi/0/309/446/000446309/446309.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3897,
+        "title": "2024년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 992,
+      "media": {
+        "duration": "00:50:57",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24920903,
+      "magazineId": 1778990,
+      "title": "김어준 만년필 사용기",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "억울한 만년필들 + 파카 75 콜렉터스 팁",
+      "image": "https://img.podbbang.com/pbi/0/307/446/000446307/446307.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3897,
+        "title": "2024년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 846,
+      "media": {
+        "duration": "00:47:31",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24920770,
+      "magazineId": 1778990,
+      "title": "물리학자, SF작가, 평론가의 <삼체> 분석",
+      "subTitle": "물리학자 김상욱, SF작가 임태운, SF평론가 박상준",
+      "summary": "나노 섬유, 사체, 양자 얽힘 + 류츠신",
+      "image": "https://img.podbbang.com/pbi/0/325/446/000446325/446325.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3897,
+        "title": "2024년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1251,
+      "media": {
+        "duration": "01:08:09",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/24043bodyproblem2.mp3"
+      }
+    },
+    {
+      "id": 24920905,
+      "magazineId": 1778990,
+      "title": "식물, 위로가 되다",
+      "subTitle": "백수혜, 이강미, 김강호",
+      "summary": "식물 병원, 식물 유치원, 식물 집사",
+      "image": "https://img.podbbang.com/pbi/0/306/446/000446306/446306.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3897,
+        "title": "2024년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 973,
+      "media": {
+        "duration": "00:57:16",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

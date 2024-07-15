@@ -1,0 +1,31 @@
+{
+  "id": 23941257,
+  "magazineId": 1778990,
+  "title": "대부를 대부되게 한 것들, 마피아 그리고 세피아. 으하하.",
+  "subTitle": "56년생 완전 영화인 김홍준, 92년생 조금 영화인 강덕구",
+  "summary": "대부 1 vs 2 vs 3, 명작이 명작인 이유를 논쟁하다.",
+  "image": "https://img.podbbang.com/pbi/0/926/193/000193926/193926.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1379,
+    "title": "2021년 1월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 212,
+  "media": {
+    "duration": "00:59:28",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/01movie.jpg?w=750&h=1000\"><p class=\"description\">SEPIA #704214 오징어 먹물에서 찾은 색.<br>오징어를 뜻하는 고대 그리스어 σηπα에서 유래.</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/02movie.jpg?w=750&h=1000\"><p class=\"description\">1973년 <대부> 국제극장 개봉 당시 광고포스터</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/04movie.jpg?w=750&h=500\"><p class=\"description\">92년생 영화인과 56년생 영화인</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/05movie.jpg?w=750&h=1000\"><p class=\"description\">김홍준 교수</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/06movie.jpg?w=750&h=1000\"><p class=\"description\">강덕구 평론가</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">김홍준 , 강덕구</h1><h2 class=\"description\">한국예술종합학교 영화과 교수 , 한국예술종합학교 영상이론 학사</h2></div>"
+}

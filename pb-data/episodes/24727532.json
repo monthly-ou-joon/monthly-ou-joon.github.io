@@ -1,0 +1,31 @@
+{
+  "id": 24727532,
+  "magazineId": 1778990,
+  "title": "성악 특집 feat. 바리톤 김태일 + 김가람",
+  "subTitle": " 바이올리니스트 조윤범, 바리톤 김태일, 피아니스트 김가람",
+  "summary": "발성, 음역, 두성, 표현력 그리고 오페라",
+  "image": "https://img.podbbang.com/pbi/0/043/377/000377043/377043.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 3463,
+    "title": "2023년 6월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1258,
+  "media": {
+    "duration": "01:15:32",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3463/1688111197_441200.jpeg?w=750&h=10762\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3463/1688111197_796000.jpeg?w=750&h=8895\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3463/1688111430_657900.jpeg?w=750&h=1125\"><p class=\"description\">바이올리니스트 조윤범<br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3463/1688111430_371900.jpeg?w=750&h=1125\"><p class=\"description\">바리톤 김태일<br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3463/1688111430_564800.jpeg?w=750&h=1125\"><p class=\"description\">피아니스트 김가람<br><br></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범, 김가람, 김태일</h1><h2 class=\"description\">현악4중주단 콰르텟X 제1바이올린<br>피아니스트<br>바리톤<br><br>사진. LESS</h2></div>"
+}

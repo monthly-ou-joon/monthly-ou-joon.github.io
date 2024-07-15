@@ -1,0 +1,31 @@
+{
+  "id": 23976102,
+  "magazineId": 1778990,
+  "title": "세계 일곱 번째, 로켓, 달, 화성 그리고 외계인",
+  "subTitle": "항공우주연구원 책임연구원 최기혁, 김진한",
+  "summary": "우주개발 최전선, 그 철저한 맨땅의 헤딩.",
+  "image": "https://img.podbbang.com/pbi/0/936/193/000193936/193936.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1467,
+    "title": "2021년 2월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 213,
+  "media": {
+    "duration": "01:21:28",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/01interview202.jpg?w=750&h=500\"><p class=\"description\">누리호1단 엔진 클러스트링 300톤급 연소시험<br>2021.1.28. ⓒ 공공누리에 따라 한국항공우주연구원의 공공저작물 이용, 이하 동일</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/02interview202.jpg?w=750&h=500\"><p class=\"description\">누리호1단 엔진 클러스트링 300톤급 연소시험<br>2021.1.28.</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/03interview202.jpg?w=750&h=500\"><p class=\"description\">누리호1단 엔진 클러스트링 300톤급 연소시험<br>2021.1.28.</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/04interview202.jpg?w=750&h=500\"><p class=\"description\">누리호1단 인증모델</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/05interview202.jpg?w=750&h=500\"><p class=\"description\">누리호1단 체계개발모델</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/06interview202.jpg?w=750&h=500\"><p class=\"description\">한국형발사체 1단 산화제탱크</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/07interview202.jpg?w=750&h=500\"><p class=\"description\">한국형발사체 1단 산화제탱크 내부</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/08interview202.jpg?w=750&h=500\"><p class=\"description\">시험용 달궤도선의 달로 가는 여정</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/09interview202.jpg?w=750&h=1000\"><p class=\"description\">김진한 박사</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/10interview202.jpg?w=750&h=1000\"><p class=\"description\">최기혁 박사</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">김진한, 최기혁</h1><h2 class=\"description\">항공우주연구원 발사체엔진개발부 책임연구원, 우주탐사연구부 책임연구원</h2></div>"
+}

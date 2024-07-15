@@ -1,0 +1,31 @@
+{
+  "id": 24515055,
+  "magazineId": 1778990,
+  "title": "대통령의 영장화, 대한민국의 사물화",
+  "subTitle": "철학자 박구용",
+  "summary": "사물화/대상화, 칸트부터 마사 누스바움까지",
+  "image": "https://img.podbbang.com/pbi/0/468/318/000318468/318468.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2999,
+    "title": "2022년 10월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1632,
+  "media": {
+    "duration": "00:54:08",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2999/1667114683_039700.jpeg?w=750&h=2208\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2999/1667114684_978100.jpeg?w=750&h=2055\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2999/1667114684_779300.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박구용</h1><h2 class=\"description\">전남대 철학과 교수<br>사진. LESS</h2></div>"
+}

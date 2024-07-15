@@ -1,0 +1,31 @@
+{
+  "id": 24337557,
+  "magazineId": 1778990,
+  "title": "쇼팽의 피아니즘 그리고  조르주의 모유수유",
+  "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+  "summary": "파리, 디아스포라, 외로움, 부치지 못한 편지",
+  "image": "https://img.podbbang.com/pbi/0/373/272/000272373/272373.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2612,
+    "title": "2022년 4월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1221,
+  "media": {
+    "duration": "01:24:08",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651299352_121400.jpeg?w=750&h=9035\"><p class=\"description\"><br><br><br><br><br>[재생/연주 리스트(순서대로)]<br><br>쇼팽 녹턴 No.2<br>쇼팽 녹턴 No.20 (연주: 김가람)<br>쇼팽 피아노 협주곡 2번 2악장<br>쇼팽 왈츠 Op.69 No.1 (연주: 김가람)<br>쇼팽 전주곡 Op.28 No.15 \"빗방울 전주곡\" (연주: 김가람)<br>쇼팽 연습곡 Op.10 No.12 \"혁명\"<br><br><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651299352_190000.jpeg?w=750&h=1006\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651299352_871700.jpeg?w=750&h=1000\"><p class=\"description\"><br><br></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범 X 김가람</h1><h2 class=\"description\">현악사중주단 콰르텟X 제1바이올린<br>피아니스트</h2></div>"
+}

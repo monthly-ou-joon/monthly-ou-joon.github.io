@@ -1,0 +1,31 @@
+{
+  "id": 23941256,
+  "magazineId": 1778990,
+  "title": "사라 코너와 터미네이터의 전투, 그 날이 오기 까지.",
+  "subTitle": "로봇공학자 한재권",
+  "summary": "로봇의 척수, 근육, 에너지, 뇌 그리고 자아를 진단하다.",
+  "image": "https://img.podbbang.com/pbi/0/919/193/000193919/193919.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1379,
+    "title": "2021년 1월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 212,
+  "media": {
+    "duration": "00:56:20",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/01IT.jpg?w=750&h=750\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/02IT.jpg?w=750&h=750\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/03IT.jpg?w=750&h=750\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/04IT.jpg?w=750&h=750\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/05IT.jpg?w=750&h=750\"><p class=\"description\">한재권 교수가 만든 로봇 1, ABLE</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/06IT.jpg?w=750&h=750\"><p class=\"description\">한재권 교수가 만든 로봇 2, CHARLI</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/07IT.jpg?w=750&h=750\"><p class=\"description\">한재권 교수가 만든 로봇 3, ALICE</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/08IT.jpg?w=750&h=750\"><p class=\"description\">한재권 교수가 만든 로봇 4, EDIE</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/09IT.jpg?w=750&h=1000\"><p class=\"description\">한재권 교수</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">한재권</h1><h2 class=\"description\">한양대학교 로봇공학과 교수</h2></div>"
+}

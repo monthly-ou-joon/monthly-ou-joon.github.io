@@ -1,0 +1,31 @@
+{
+  "id": 24788391,
+  "magazineId": 1778990,
+  "title": "<2024 김어준+> 탁현민 총감독",
+  "subTitle": "공지",
+  "summary": "토크 콘서트 저 너머",
+  "image": "https://img.podbbang.com/pbi/0/294/398/000398294/398294.jpg",
+  "isFree": true,
+  "issue": {
+    "id": 3584,
+    "title": "2023년 9월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": true,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 767,
+  "media": {
+    "duration": "00:16:13",
+    "url": "http://file.ssenhosting.com/data1/pb_30174/2309notice.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3584/1695809885_171600.jpeg?w=750&h=1004\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3584/1695809885_252700.jpeg?w=750&h=1349\"><p class=\"description\"><br>자세한 내용과 펀딩 링크는 공지사항에도 안내되어 있습니다.<br><br>2024 김어준+ 펀딩 링크<br><br>https://m.market.ddanzi.com/shop/view.php?index_no=186144406</p></div>"
+}

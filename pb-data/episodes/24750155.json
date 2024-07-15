@@ -1,0 +1,31 @@
+{
+  "id": 24750155,
+  "magazineId": 1778990,
+  "title": "몽골 평원 한가운데서 별을 보다",
+  "subTitle": "전자공학박사 박문호",
+  "summary": "외계 행성, 위성, 생명체 그리고 아바타2",
+  "image": "https://img.podbbang.com/pbi/0/077/384/000384077/384077.jpg",
+  "isFree": true,
+  "issue": {
+    "id": 3494,
+    "title": "2023년 7월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": true,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1217,
+  "media": {
+    "duration": "00:54:31",
+    "url": "http://file.ssenhosting.com/data1/pb_30174/2307science.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3494/1690789686_127100.jpeg?w=750&h=2789\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3494/1690789686_998700.jpeg?w=750&h=11943\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3494/1690789687_470300.jpeg?w=750&h=7420\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3494/1690789687_760400.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박문호</h1><h2 class=\"description\">전자공학박사<br/><br/>사진.LESS</h2></div>"
+}

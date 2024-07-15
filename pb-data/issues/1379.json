@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "id": 23941249,
+      "magazineId": 1778990,
+      "title": "모태솔로 칸트의 초월, 비판, 연인, 요리 그리고 경계",
+      "subTitle": "철학자 박구용",
+      "summary": "철학의 저수지 칸트, 60분 속성 박막 습득법을 강론하다.",
+      "image": "https://img.podbbang.com/pbi/0/893/193/000193893/193893.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 945,
+      "media": {
+        "duration": "00:58:56",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/01philosophy.mp3"
+      }
+    },
+    {
+      "id": 23941250,
+      "magazineId": 1778990,
+      "title": "내가 말이지. 알쓸신잡에 할 말이 참 많이 있어요.",
+      "subTitle": "미술사학자 노성두",
+      "summary": "완벽한 황금비율의 파르테논 신전, 그 허구를 파훼하다.",
+      "image": "https://img.podbbang.com/pbi/0/896/193/000193896/193896.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 554,
+      "media": {
+        "duration": "01:14:55",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23941251,
+      "magazineId": 1778990,
+      "title": "삼손이 어느날 신전을 무너뜨려버린 사연, 탈모.",
+      "subTitle": "한의사 이문원, 의사 한상보, 의사 김찬우, 삼탈모 까페 문성렬",
+      "summary": "한의 양의 모발이식, 탈모치료의 현재를 폭로하다.",
+      "image": "https://img.podbbang.com/pbi/0/897/193/000193897/193897.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 226,
+      "media": {
+        "duration": "01:03:23",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/03hair.mp3"
+      }
+    },
+    {
+      "id": 23941252,
+      "magazineId": 1778990,
+      "title": "“손석희, 너 나한테 평생 밥 사야 돼, 우하하하”",
+      "subTitle": "중소벤처기업부 장관 박영선",
+      "summary": "박영선, 10년 전 원수 김어준에게 죄다 털어놓다.",
+      "image": "https://img.podbbang.com/pbi/0/899/193/000193899/193899.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 102,
+      "media": {
+        "duration": "01:05:52",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/04park.mp3"
+      }
+    },
+    {
+      "id": 23941253,
+      "magazineId": 1778990,
+      "title": "신과 함께 - 신부 목사 승려 이맘의 무규칙이종격투",
+      "subTitle": "홍창진, 채수일, 정림, 알리",
+      "summary": "돈, 술, 고기, 연애, 폭탄, 각성. 사도의 진실을 말하다.",
+      "image": "https://img.podbbang.com/pbi/0/900/193/000193900/193900.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 221,
+      "media": {
+        "duration": "01:10:16",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23941254,
+      "magazineId": 1778990,
+      "title": "양자역학에 관해 닐스 보어가 그랬다. 닥치라고. 진짜다.",
+      "subTitle": "물리학자 김상욱",
+      "summary": "중첩부터 슈뢰딩거, 퀴리부터 인어공주까지 논증하다.",
+      "image": "https://img.podbbang.com/pbi/0/914/193/000193914/193914.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 391,
+      "media": {
+        "duration": "00:48:29",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23941255,
+      "magazineId": 1778990,
+      "title": "어차피 안 읽을 거잖아. 톨스토이, 도스토옙스키.",
+      "subTitle": "평론가 조영일",
+      "summary": "세계문학전집이란 허영에서 읽은 척이란 기술을 분리하다.",
+      "image": "https://img.podbbang.com/pbi/0/917/193/000193917/193917.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 290,
+      "media": {
+        "duration": "01:05:18",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23941256,
+      "magazineId": 1778990,
+      "title": "사라 코너와 터미네이터의 전투, 그 날이 오기 까지.",
+      "subTitle": "로봇공학자 한재권",
+      "summary": "로봇의 척수, 근육, 에너지, 뇌 그리고 자아를 진단하다.",
+      "image": "https://img.podbbang.com/pbi/0/919/193/000193919/193919.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 216,
+      "media": {
+        "duration": "00:56:20",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 23941257,
+      "magazineId": 1778990,
+      "title": "대부를 대부되게 한 것들, 마피아 그리고 세피아. 으하하.",
+      "subTitle": "56년생 완전 영화인 김홍준, 92년생 조금 영화인 강덕구",
+      "summary": "대부 1 vs 2 vs 3, 명작이 명작인 이유를 논쟁하다.",
+      "image": "https://img.podbbang.com/pbi/0/926/193/000193926/193926.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1379,
+        "title": "2021년 1월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 216,
+      "media": {
+        "duration": "00:59:28",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 9
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24813540,
+      "magazineId": 1778990,
+      "title": "공산전체주의의 기원, 그 성실한 혐오",
+      "subTitle": "철학자 박구용",
+      "summary": "데카르트, 칸트, 17세기에 정지된.",
+      "image": "https://img.podbbang.com/pbi/0/400/405/000405400/405400.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3633,
+        "title": "2023년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1624,
+      "media": {
+        "duration": "00:51:43",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24805610,
+      "magazineId": 1778990,
+      "title": "성악 3탄 feat. 테너 이사야, 피아니스트 최은주",
+      "subTitle": "바이올리니스트 조윤범, 테너 이사야, 피아니스트 최은주",
+      "summary": "사랑의 묘약과 토스카 그리고 장군의 피아노",
+      "image": "https://img.podbbang.com/pbi/0/789/404/000404789/404789.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3633,
+        "title": "2023년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1129,
+      "media": {
+        "duration": "01:07:21",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2310classic.mp3"
+      }
+    },
+    {
+      "id": 24812739,
+      "magazineId": 1778990,
+      "title": "렘브란트 그림은 영화다.",
+      "subTitle": "미술사학자 노성두",
+      "summary": "〈야경〉, 〈착한 사마리아인〉, 〈튈프 박사의 해부학 수업〉",
+      "image": "https://img.podbbang.com/pbi/0/047/405/000405047/405047.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3633,
+        "title": "2023년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1052,
+      "media": {
+        "duration": "01:18:50",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24813535,
+      "magazineId": 1778990,
+      "title": "\"지구가 우리의 유일한 주주입니다.\"",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "대단하다, 파타고니아 이본 쉬나드",
+      "image": "https://img.podbbang.com/pbi/0/391/405/000405391/405391.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3633,
+        "title": "2023년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1176,
+      "media": {
+        "duration": "00:56:56",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24813096,
+      "magazineId": 1778990,
+      "title": "〈뇌과학〉 꿈은 기억의 진화 과정이다.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "스틱골드의 NEXTUP 이론 ",
+      "image": "https://img.podbbang.com/pbi/0/189/405/000405189/405189.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3633,
+        "title": "2023년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1188,
+      "media": {
+        "duration": "00:47:38",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24812975,
+      "magazineId": 1778990,
+      "title": "복수혈전 추노담 〈김학공전〉",
+      "subTitle": "국문학자 유광수",
+      "summary": "B급 감성의 노비 추적기",
+      "image": "https://img.podbbang.com/pbi/0/132/405/000405132/405132.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3633,
+        "title": "2023년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1046,
+      "media": {
+        "duration": "01:03:05",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24813625,
+      "magazineId": 1778990,
+      "title": "오, 이 벌레를 보라, 곤충 찬양기",
+      "subTitle": "정광수, 윤기상, 동민수",
+      "summary": "게으른 개미, 사투리 매미, 후진비행 잠자리",
+      "image": "https://img.podbbang.com/pbi/0/385/405/000405385/405385.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3633,
+        "title": "2023년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1008,
+      "media": {
+        "duration": "01:07:25",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24813638,
+      "magazineId": 1778990,
+      "title": "김어준 만년필 입문기 Ⅷ. 올 타임 베스트",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "파카75와 프로젝트 만",
+      "image": "https://img.podbbang.com/pbi/0/389/405/000405389/405389.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3633,
+        "title": "2023년 10월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 936,
+      "media": {
+        "duration": "00:44:38",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

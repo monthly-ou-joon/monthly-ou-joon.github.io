@@ -1,0 +1,31 @@
+{
+  "id": 24386768,
+  "magazineId": 1778990,
+  "title": "영국 클래식계의 온달, 에드워드 엘가",
+  "subTitle": "바이올리니스트 조윤범",
+  "summary": "사랑의 인사, 수수께끼 변주곡, 위풍당당 행진곡",
+  "image": "https://img.podbbang.com/pbi/0/797/287/000287797/287797.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2718,
+    "title": "2022년 6월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 925,
+  "media": {
+    "duration": "01:06:22",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2718/1656557419_897900.jpeg?w=750&h=8955\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2718/1656557419_295600.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범</h1><h2 class=\"description\">현악사중주단 콰르텟X 제1바이올린<br><br>사진. LESS</h2></div>"
+}

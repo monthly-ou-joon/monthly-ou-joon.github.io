@@ -1,0 +1,31 @@
+{
+  "id": 23976103,
+  "magazineId": 1778990,
+  "title": "빅뱅부터 뇌과학까지. 그 장구한 빅히스토리",
+  "subTitle": "전자공학박사 박문호",
+  "summary": "함부로 재생하지 마라. 미리 경고했다.",
+  "image": "https://img.podbbang.com/pbi/0/937/193/000193937/193937.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1467,
+    "title": "2021년 2월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 935,
+  "media": {
+    "duration": "01:32:42",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/01kwa02.jpg?w=750&h=500\"><p class=\"description\">빅뱅</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/02kwa02.jpg?w=750&h=500\"><p class=\"description\">빅뱅 이후 우주와 원소의 탄생 과정</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/03kwa02.jpg?w=750&h=500\"><p class=\"description\">2008년 관측된 우주 배경 복사</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/04kwa02.jpg?w=750&h=500\"><p class=\"description\">로버트 우드로 윌슨 Robert Woodrow<br>Wilson(왼쪽)과 아노 알런 펜지어스<br>Arno Allan Penzias (노벨 물리학상 공동수상)</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/05kwa02.jpg?w=750&h=500\"><p class=\"description\">1964년 펜지어스와 윌슨이 우주<br>마이크로파 배경을 발견한 홀름델 혼 안테나</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/06kwa02.jpg?w=750&h=500\"><p class=\"description\">스티븐 와인버그 Steven Weinberg 1933~</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/07kwa02.jpg?w=750&h=500\"><p class=\"description\">빅뱅잔류파, 아날로그 TV의 노이즈</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/08kwa02.jpg?w=750&h=500\"><p class=\"description\">미토콘드리아</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/09kwa02.jpg?w=750&h=500\"><p class=\"description\">라브레아 타르웅덩이 (Robert Bruce Horsfall, 1913)</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/10kwa02.jpg?w=750&h=1000\"><p class=\"description\">박문호 박사</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박문호</h1><h2 class=\"description\">전자공학박사, 전 ETRI 책임연구원</h2></div>"
+}

@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24030468,
+      "magazineId": 1778990,
+      "title": "누가 비트겐슈타인 하자 그랬어",
+      "subTitle": "철학자 박구용",
+      "summary": "함부로 재생금지. 논리실증주의, 이 망할. ",
+      "image": "https://img.podbbang.com/pbi/0/957/193/000193957/193957.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1665,
+        "title": "2021년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 666,
+      "media": {
+        "duration": "01:22:40",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24030474,
+      "magazineId": 1778990,
+      "title": "<빅히스토리 III> 옛다, 인간 나왔다",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "느낌적 느낌에 관한 박문호적 뇌과학 보고서",
+      "image": "https://img.podbbang.com/pbi/0/964/193/000193964/193964.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 1665,
+        "title": "2021년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 737,
+      "media": {
+        "duration": "01:10:12",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2104sci.mp3"
+      }
+    },
+    {
+      "id": 24030562,
+      "magazineId": 1778990,
+      "title": "<부록ㅣ브랜드 III> 아주, 멀리 간 사람들. 스피커편",
+      "subTitle": "매니아 김갑수, 메이커 김상윤",
+      "summary": "브리티시, 아메리칸, 도이치 스피커 얼추 입문용",
+      "image": "https://img.podbbang.com/pbi/0/965/193/000193965/193965.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1665,
+        "title": "2021년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 251,
+      "media": {
+        "duration": "01:21:44",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24030471,
+      "magazineId": 1778990,
+      "title": "\"니가 어떻게 나한테, 저한테 왜 이러시는 거에요\"",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "재능 납부자 차이코프스키, 연심 수령인 폰멕여사",
+      "image": "https://img.podbbang.com/pbi/0/960/193/000193960/193960.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1665,
+        "title": "2021년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 444,
+      "media": {
+        "duration": "01:23:09",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24030472,
+      "magazineId": 1778990,
+      "title": "조선의 엑스맨, 홍길동, 욕망의 다크나이트",
+      "subTitle": "국문학자 유광수 ",
+      "summary": "나폴레옹적 전복과 봉건적 난봉의 호부호형 콜라보",
+      "image": "https://img.podbbang.com/pbi/0/962/193/000193962/193962.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1665,
+        "title": "2021년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 436,
+      "media": {
+        "duration": "01:00:00",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24030596,
+      "magazineId": 1778990,
+      "title": "<나만모르나> 너희는 힙합을 알고는 있는 거니",
+      "subTitle": "래퍼 팔로알토, 힙합저널리스트 김봉현",
+      "summary": "모방과 창조, 이식과 독립, 랩배틀과 토크배틀",
+      "image": "https://img.podbbang.com/pbi/0/968/193/000193968/193968.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1665,
+        "title": "2021년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 173,
+      "media": {
+        "duration": "01:20:59",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24030473,
+      "magazineId": 1778990,
+      "title": "사나이 울리는 신학문, 엉엉 진화 심리학",
+      "subTitle": "진화심리학자 전중환",
+      "summary": "무모하고 어리석고 대체로, 쓸모 없는 수컷들",
+      "image": "https://img.podbbang.com/pbi/0/963/193/000193963/193963.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1665,
+        "title": "2021년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 266,
+      "media": {
+        "duration": "00:52:07",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24033519,
+      "magazineId": 1778990,
+      "title": "가명이 필요했던 스탕달, 뒷문이 필요했던 발자크",
+      "subTitle": "평론가 조영일",
+      "summary": "<적과흑> + <고리오영감> = 세계문학의 1/5",
+      "image": "https://img.podbbang.com/pbi/0/970/193/000193970/193970.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 1665,
+        "title": "2021년 4월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 240,
+      "media": {
+        "duration": "01:09:24",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

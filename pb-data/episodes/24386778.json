@@ -1,0 +1,31 @@
+{
+  "id": 24386778,
+  "magazineId": 1778990,
+  "title": "유체이탈 대통령의 메타언어와 <직업으로서의 정치>",
+  "subTitle": "철학자 박구용",
+  "summary": "주체, 카리스마, 권력, 막스 베버, 그럼에도 불구하고",
+  "image": "https://img.podbbang.com/pbi/0/802/287/000287802/287802.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2718,
+    "title": "2022년 6월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1521,
+  "media": {
+    "duration": "00:59:50",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2718/1656568533_429700.jpeg?w=750&h=5918\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2718/1656560370_141000.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박구용</h1><h2 class=\"description\">전남대 철학과 교수<br><br>사진. LESS</h2></div>"
+}

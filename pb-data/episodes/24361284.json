@@ -1,0 +1,31 @@
+{
+  "id": 24361284,
+  "magazineId": 1778990,
+  "title": "개념의 대혼돈, 대통령 취임사 멀티버스",
+  "subTitle": "철학자 박구용",
+  "summary": "리바이벌과 반지성주의, 존 스튜어트 밀 <자유론>",
+  "image": "https://img.podbbang.com/pbi/0/169/280/000280169/280169.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2682,
+    "title": "2022년 5월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1431,
+  "media": {
+    "duration": "00:53:45",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2682/1653972270_855500.jpeg?w=750&h=7879\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2682/1653972270_899600.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박구용 </h1><h2 class=\"description\">전남대 철학과 교수 <br>사진. LESS</h2></div>"
+}

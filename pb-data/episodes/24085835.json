@@ -1,0 +1,31 @@
+{
+  "id": 24085835,
+  "magazineId": 1778990,
+  "title": "<인터뷰> 대한민국 자기객관화 프로젝트 #2",
+  "subTitle": "독일 니키, 터키 제렌, 몽골 이수, 카자흐스탄 오네게",
+  "summary": "\"한국엔 이게 없어요. 우린 저게 없는데.\"",
+  "image": "https://img.podbbang.com/pbi/0/046/194/000194046/194046.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1825,
+    "title": "2021년 6월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 177,
+  "media": {
+    "duration": "01:34:01",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624952937_877800.jpeg?w=750&h=1000\"><p class=\"description\">터키 제렌</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624952937_575800.jpeg?w=750&h=999\"><p class=\"description\">카자흐스탄 오네게</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624952937_786900.jpeg?w=750&h=999\"><p class=\"description\">독일 니키</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1825/1624952937_254700.jpeg?w=750&h=999\"><p class=\"description\">몽골 이수</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">니키, 제렌, 이수, 오네게</h1><h2 class=\"description\">독일, 터키, 몽골, 카자흐스탄</h2></div>"
+}

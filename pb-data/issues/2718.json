@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24386778,
+      "magazineId": 1778990,
+      "title": "유체이탈 대통령의 메타언어와 <직업으로서의 정치>",
+      "subTitle": "철학자 박구용",
+      "summary": "주체, 카리스마, 권력, 막스 베버, 그럼에도 불구하고",
+      "image": "https://img.podbbang.com/pbi/0/802/287/000287802/287802.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2718,
+        "title": "2022년 6월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1526,
+      "media": {
+        "duration": "00:59:50",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24386770,
+      "magazineId": 1778990,
+      "title": "뉴룩과 레이디백. 디올과 2022서울의 평행우주",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "무당, 큐레이터, 나찌 그리고 보복 패션",
+      "image": "https://img.podbbang.com/pbi/0/799/287/000287799/287799.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2718,
+        "title": "2022년 6월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1835,
+      "media": {
+        "duration": "01:05:53",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2206fasion.mp3"
+      }
+    },
+    {
+      "id": 24386779,
+      "magazineId": 1778990,
+      "title": "시간 구속을 벗어난 뇌, 사피엔스 되다",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "감각, 느낌, 감정, 언어, 예측. 다마지오이론",
+      "image": "https://img.podbbang.com/pbi/0/816/287/000287816/287816.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2718,
+        "title": "2022년 6월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1296,
+      "media": {
+        "duration": "00:57:23",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24386977,
+      "magazineId": 1778990,
+      "title": "곰브리치&비트루비우스, 동반 귀가 조치",
+      "subTitle": "미술사학자 노성두",
+      "summary": "도리스, 이오니아, 코린토스 기둥머리의 진실",
+      "image": "https://img.podbbang.com/pbi/0/871/287/000287871/287871.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2718,
+        "title": "2022년 6월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 869,
+      "media": {
+        "duration": "01:03:25",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24386768,
+      "magazineId": 1778990,
+      "title": "영국 클래식계의 온달, 에드워드 엘가",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "사랑의 인사, 수수께끼 변주곡, 위풍당당 행진곡",
+      "image": "https://img.podbbang.com/pbi/0/797/287/000287797/287797.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2718,
+        "title": "2022년 6월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 926,
+      "media": {
+        "duration": "01:06:22",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24386777,
+      "magazineId": 1778990,
+      "title": "조선의 템테이션 아일랜드, 배비장전",
+      "subTitle": "국문학자 유광수",
+      "summary": "팜므파탈, 양반의 허위를 벗겨 시식하다",
+      "image": "https://img.podbbang.com/pbi/0/801/287/000287801/287801.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2718,
+        "title": "2022년 6월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 857,
+      "media": {
+        "duration": "00:51:35",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24386773,
+      "magazineId": 1778990,
+      "title": "<재즈부흥회2탄> 재즈 제조공정을 공개하노니",
+      "subTitle": "한국재즈수비대, 말로, 양지, 박기훈, 김영대",
+      "summary": "동요, 민요, 클래식, 수학, 그 약속 안의 자유  ",
+      "image": "https://img.podbbang.com/pbi/0/800/287/000287800/287800.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2718,
+        "title": "2022년 6월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 684,
+      "media": {
+        "duration": "01:09:00",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24386769,
+      "magazineId": 1778990,
+      "title": "프리다이버, 무장비 100미터 잠수",
+      "subTitle": "프리다이버 장지훈, 박가현",
+      "summary": "포유류 잠수반응, 횡격막 스트레칭, 심플 마인드",
+      "image": "https://img.podbbang.com/pbi/0/798/287/000287798/287798.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2718,
+        "title": "2022년 6월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 849,
+      "media": {
+        "duration": "01:00:13",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

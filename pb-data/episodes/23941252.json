@@ -1,0 +1,31 @@
+{
+  "id": 23941252,
+  "magazineId": 1778990,
+  "title": "“손석희, 너 나한테 평생 밥 사야 돼, 우하하하”",
+  "subTitle": "중소벤처기업부 장관 박영선",
+  "summary": "박영선, 10년 전 원수 김어준에게 죄다 털어놓다.",
+  "image": "https://img.podbbang.com/pbi/0/899/193/000193899/193899.jpg",
+  "isFree": true,
+  "issue": {
+    "id": 1379,
+    "title": "2021년 1월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": true,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 101,
+  "media": {
+    "duration": "01:05:52",
+    "url": "http://file.ssenhosting.com/data1/pb_30174/04park.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/01park.jpg?w=750&h=750\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/02park.jpg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박영선</h1><h2 class=\"description\">중소벤처기업부 장관</h2></div>"
+}

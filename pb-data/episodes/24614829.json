@@ -1,0 +1,31 @@
+{
+  "id": 24614829,
+  "magazineId": 1778990,
+  "title": "벌레잡는 연주, 프로코피예프",
+  "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+  "summary": "러시아의 앙팡 테리블, 모든 형식을 파괴하다.",
+  "image": "https://img.podbbang.com/pbi/0/628/340/000340628/340628.jpg",
+  "isFree": true,
+  "issue": {
+    "id": 3158,
+    "title": "2023년 1월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": true,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1206,
+  "media": {
+    "duration": "01:06:01",
+    "url": "http://file.ssenhosting.com/data1/pb_30174/2301classicre.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3158/1675145762_479500.jpeg?w=750&h=10814\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3158/1675146221_307300.jpeg?w=750&h=1056\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3158/1675146221_003200.jpeg?w=750&h=1124\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범, 김가람</h1><h2 class=\"description\">현악사중주단 콰르텟X 제1바이올린<br>피아니스트<br><br>사진. LESS</h2></div>"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 23941255,
+  "magazineId": 1778990,
+  "title": "어차피 안 읽을 거잖아. 톨스토이, 도스토옙스키.",
+  "subTitle": "평론가 조영일",
+  "summary": "세계문학전집이란 허영에서 읽은 척이란 기술을 분리하다.",
+  "image": "https://img.podbbang.com/pbi/0/917/193/000193917/193917.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1379,
+    "title": "2021년 1월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 286,
+  "media": {
+    "duration": "01:05:18",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/01literature.jpg?w=750&h=1000\"><p class=\"description\">레프 니콜라예비치 톨스토이 1828-1910<br>Лев Николаевич Толстой</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/02literature.jpg?w=750&h=1000\"><p class=\"description\"><전쟁과 평화> 초판, 1869</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/03literature.jpg?w=750&h=1000\"><p class=\"description\">톨스토이의 부인, 소피아 안드레예브나 톨스타야<br>Со́фья Андре́евна Толста́я 1844-1919</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/04literature.jpg?w=750&h=500\"><p class=\"description\">톨스토이가 임종을 맞은 아스타포보 역</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/05literature.jpg?w=750&h=1000\"><p class=\"description\">표도르 도스토옙스키 1821-1881<br>Фёдор Миха́йлович Достое́вский</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/06literature.jpg?w=750&h=1000\"><p class=\"description\"><죄와 벌> 초판, 1867</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/07literature.jpg?w=750&h=1000\"><p class=\"description\">도스토옙스키의 두번째 부인, 안나 그리고리예브나 스니트키나<br>Анна Григорьевна Достоевская 1846-1918</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/08literature.jpg?w=750&h=500\"><p class=\"description\">도스토옙스키의 장례식에 모인 사람들</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1379/09literature.jpg?w=750&h=1000\"><p class=\"description\">조영일 평론가</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조영일</h1><h2 class=\"description\">문학평론가. 번역가. 출판기획자</h2></div>"
+}

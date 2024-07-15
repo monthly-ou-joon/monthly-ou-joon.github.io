@@ -1,0 +1,31 @@
+{
+  "id": 24118777,
+  "magazineId": 1778990,
+  "title": "한국적 SF 상상력, 그 개척자들의 서사에 반하다",
+  "subTitle": "SF작가 곽재식, 이서영, 임태운",
+  "summary": "짜장면과 노동과 외계와 젠더와 좀비와 용이 만나다. ",
+  "image": "https://img.podbbang.com/pbi/0/056/197/000197056/197056.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1979,
+    "title": "2021년 7월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 230,
+  "media": {
+    "duration": "01:32:15",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627616120_522000.jpeg?w=750&h=1000\"><p class=\"description\">곽재식 작가<br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627616120_556900.jpeg?w=750&h=1000\"><p class=\"description\">이서영 작가<br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_1979/1627616120_340800.jpeg?w=750&h=1000\"><p class=\"description\">임태운 작가<br><br></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">곽재식, 이서영, 임태운</h1><h2 class=\"description\">SF작가 </h2></div>"
+}

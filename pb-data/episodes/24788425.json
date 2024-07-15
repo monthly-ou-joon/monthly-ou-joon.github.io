@@ -1,0 +1,31 @@
+{
+  "id": 24788425,
+  "magazineId": 1778990,
+  "title": "이재명, 가결 유다, 자유의 묘지 그리고 총선",
+  "subTitle": "철학자 박구용",
+  "summary": "칸트 <영구평화론>, <윤리형이상학>",
+  "image": "https://img.podbbang.com/pbi/0/309/398/000398309/398309.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 3584,
+    "title": "2023년 9월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1899,
+  "media": {
+    "duration": "00:54:34",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3584/1695698732_448900.jpeg?w=750&h=1160\"><p class=\"description\"><br><br><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3584/1695698732_316600.jpeg?w=750&h=2630\"><p class=\"description\"><br><br><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3584/1695698732_489200.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박구용</h1><h2 class=\"description\">전남대 철학과 교수</h2></div>"
+}

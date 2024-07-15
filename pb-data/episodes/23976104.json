@@ -1,0 +1,31 @@
+{
+  "id": 23976104,
+  "magazineId": 1778990,
+  "title": "부록ㅣ브랜드 시리즈 #1 패션",
+  "subTitle": "평론가 신기주, 섬유전문가 안동진",
+  "summary": "에르메스부터 스트릿까지, 럭셔리의 실체를 논하다.",
+  "image": "https://img.podbbang.com/pbi/0/939/193/000193939/193939.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1467,
+    "title": "2021년 2월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 267,
+  "media": {
+    "duration": "00:59:32",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/01brand02.jpg?w=750&h=500\"><p class=\"description\">1923년 에르메스 광고</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/02brand02.jpg?w=750&h=500\"><p class=\"description\">루이비통 매장, 파리 샹젤리제</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/03brand02.jpg?w=750&h=1000\"><p class=\"description\">에디 슬리먼 Hedi Slimane 1968~ <br>ⓒ Yann Rzepka</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/04brand02.jpg?w=750&h=1000\"><p class=\"description\">구찌 디자이너, 알렉산드로 미켈레 Alessandro Michele 1972~<br>ⓒ Walterlan Papetti</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/05brand02.jpg?w=750&h=1000\"><p class=\"description\">안동진 교수</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/06brand02.jpg?w=750&h=1000\"><p class=\"description\">신기주 평론가</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">신기주, 안동진</h1><h2 class=\"description\">전 에스콰이어 편집장, 건국대학교 의상디자인학과 겸임교수</h2></div>"
+}

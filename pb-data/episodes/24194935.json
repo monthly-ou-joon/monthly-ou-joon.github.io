@@ -1,0 +1,31 @@
+{
+  "id": 24194935,
+  "magazineId": 1778990,
+  "title": "마약, 알코올, 도박. \"나는 중독의 끝에 가보았다.\"",
+  "subTitle": "목사 임상현, 신부 허근, 상담사 김형주",
+  "summary": "마약 엘리트코스목사 , 폐쇄병동 알콜신부, 정선행 마카오김.",
+  "image": "https://img.podbbang.com/pbi/0/797/224/000224797/224797.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2221,
+    "title": "2021년 10월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 223,
+  "media": {
+    "duration": "01:20:03",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2221/1635657510_962300.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2221/1635657510_631000.jpeg?w=750&h=1000\"><p class=\"description\">임상현 목사 <br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2221/1635657510_263200.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2221/1635657510_436500.jpeg?w=750&h=1000\"><p class=\"description\">허근 신부<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2221/1635657510_890600.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2221/1635657510_443000.jpeg?w=750&h=1000\"><p class=\"description\">김형주 상담사<br><br><br></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">임상현, 허근, 김형주 </h1><h2 class=\"description\">경기도 다르크 센터장, 카톨릭 알코올 사목센터 신부, 한국도박문제관리센터 상담사 <br>사진. LESS </h2></div>"
+}

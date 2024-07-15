@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24634479,
+      "magazineId": 1778990,
+      "title": "생존자 하이든 (feat. 콰르텟X)",
+      "subTitle": "바이올리니스트 조윤범, 콰르텟엑스",
+      "summary": "음악으로 유머하고 마님 곁에 머물다",
+      "image": "https://img.podbbang.com/pbi/0/462/347/000347462/347462.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3244,
+        "title": "2023년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1222,
+      "media": {
+        "duration": "01:19:10",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24634478,
+      "magazineId": 1778990,
+      "title": "<문방사우 2탄> 필기구 빅 히스토리",
+      "subTitle": "만년필연구소장 박종진",
+      "summary": "붓의 4德, 검은 담비와 콜린스키",
+      "image": "https://img.podbbang.com/pbi/0/451/347/000347451/347451.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 3244,
+        "title": "2023년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1083,
+      "media": {
+        "duration": "00:54:22",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2302brush.mp3"
+      }
+    },
+    {
+      "id": 24634492,
+      "magazineId": 1778990,
+      "title": "적을 찾는 대통령",
+      "subTitle": "철학자 박구용",
+      "summary": "자유의 적, 나찌의 이데올로기",
+      "image": "https://img.podbbang.com/pbi/0/460/347/000347460/347460.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3244,
+        "title": "2023년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1616,
+      "media": {
+        "duration": "00:49:28",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24634480,
+      "magazineId": 1778990,
+      "title": "클래식 트위스트, 폴 스미스",
+      "subTitle": "패션큐레이터 김홍기",
+      "summary": "질문, 관찰, 병치, 편집, 로컬, 위트",
+      "image": "https://img.podbbang.com/pbi/0/458/347/000347458/347458.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3244,
+        "title": "2023년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1245,
+      "media": {
+        "duration": "00:55:34",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24634482,
+      "magazineId": 1778990,
+      "title": "블랙홀은 입자다. (+이휘소 박사)",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "우주의 레고 블럭, 쿼크와 렙톤",
+      "image": "https://img.podbbang.com/pbi/0/450/347/000347450/347450.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3244,
+        "title": "2023년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1088,
+      "media": {
+        "duration": "01:02:16",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24634476,
+      "magazineId": 1778990,
+      "title": "카라바조, 바로크식 자연주의의 총아",
+      "subTitle": "미술사학자 노성두",
+      "summary": "<마리아 임종>, <사랑은 모든 것을 이긴다>",
+      "image": "https://img.podbbang.com/pbi/0/463/347/000347463/347463.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3244,
+        "title": "2023년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 969,
+      "media": {
+        "duration": "01:19:12",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24634481,
+      "magazineId": 1778990,
+      "title": "호랑이를 느끼다 <김현감호전>",
+      "subTitle": "국문학자 유광수",
+      "summary": "탑돌이와 고대의 포르노",
+      "image": "https://img.podbbang.com/pbi/0/457/347/000347457/347457.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3244,
+        "title": "2023년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 972,
+      "media": {
+        "duration": "00:46:30",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24634474,
+      "magazineId": 1778990,
+      "title": "무근본 맨땅에 헤딩,  귀농 3인방 생존기",
+      "subTitle": "박창섭, 김용성, 손다원",
+      "summary": "자연 양계, 스마트팜, 아쿠아포닉스",
+      "image": "https://img.podbbang.com/pbi/0/469/347/000347469/347469.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 3244,
+        "title": "2023년 2월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 888,
+      "media": {
+        "duration": "01:04:52",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

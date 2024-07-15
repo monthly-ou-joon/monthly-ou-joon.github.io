@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24143764,
+      "magazineId": 1778990,
+      "title": "하이데거, 한 목가적 극우의 지적 도발, 그 명과 암.",
+      "subTitle": "철학자 박구용",
+      "summary": "존재론을 재건하고 삶으로는 스러져간, 한 남자 이야기.",
+      "image": "https://img.podbbang.com/pbi/0/752/205/000205752/205752.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2074,
+        "title": "2021년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 501,
+      "media": {
+        "duration": "01:15:04",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24143767,
+      "magazineId": 1778990,
+      "title": "<빅히스토리VII> 박사님, 대체 모르시는게 뭡니까? 오마이 사이언스.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "괴테부터 흑요석까지. 인간은 작동하는 광물이다. ",
+      "image": "https://img.podbbang.com/pbi/0/751/205/000205751/205751.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2074,
+        "title": "2021년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 620,
+      "media": {
+        "duration": "01:25:28",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/210802sci.mp3"
+      }
+    },
+    {
+      "id": 24143768,
+      "magazineId": 1778990,
+      "title": "셰익스피어 찾지 마라. 여기 조선판 로미오 줄리엣 있다.",
+      "subTitle": "국문학자 유광수",
+      "summary": "실존 인물, 입체 플롯, 시와 서사의 온전한 합체, 운영전. ",
+      "image": "https://img.podbbang.com/pbi/0/753/205/000205753/205753.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2074,
+        "title": "2021년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 303,
+      "media": {
+        "duration": "01:00:08",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24144757,
+      "magazineId": 1778990,
+      "title": "누가 바흐를 음악의 아버지라 하는가, 그냥 아빠구만.",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "바로크 후기의 고단한 음악 가장, 천재 세습 음악공 바흐.",
+      "image": "https://img.podbbang.com/pbi/0/166/206/000206166/206166.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2074,
+        "title": "2021년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 319,
+      "media": {
+        "duration": "01:12:38",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24143772,
+      "magazineId": 1778990,
+      "title": "아웅산, 카다피, 호메이니, 탈레반 직접 만난 사람들",
+      "subTitle": "이희수 교수, 강경란 피디",
+      "summary": "분쟁 전문피디와 이슬람 학자, 아프간을 말하다. ",
+      "image": "https://img.podbbang.com/pbi/0/757/205/000205757/205757.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2074,
+        "title": "2021년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 204,
+      "media": {
+        "duration": "01:32:53",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24143773,
+      "magazineId": 1778990,
+      "title": "월말 음악회 3탄, 피리부는 사람들, 이번엔 안 될 줄 알았다.",
+      "subTitle": "최나경, 이광훈 ",
+      "summary": "세계적 플루티스트와 문화재 대금연주자, 그 최초의 콜라보.",
+      "image": "https://img.podbbang.com/pbi/0/758/205/000205758/205758.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2074,
+        "title": "2021년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 157,
+      "media": {
+        "duration": "01:24:17",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24144759,
+      "magazineId": 1778990,
+      "title": "한국적 SF 상상력 2탄. 신세대, 신세계를 만들어내다.",
+      "subTitle": "박해울 작가, 천선란 작가, 심너울 작가, 임태운 작가",
+      "summary": "배꼽, 공시생, 테라포밍, 신탁, 배양인, 방주, AI.",
+      "image": "https://img.podbbang.com/pbi/0/168/206/000206168/206168.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2074,
+        "title": "2021년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 179,
+      "media": {
+        "duration": "01:25:52",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24144693,
+      "magazineId": 1778990,
+      "title": "<부록ㅣ자전거> 고독한, 과묵한, 일부러, 저멀리, 달리는, 자전거, 라이더.",
+      "subTitle": "박창민 편집장, 신진섭 디자이너, 김묘진 심판",
+      "summary": "심장은 엔진, 통증은 연료, 기계는 조립, 바이크의 모든 것.",
+      "image": "https://img.podbbang.com/pbi/0/128/206/000206128/206128.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2074,
+        "title": "2021년 8월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 169,
+      "media": {
+        "duration": "01:14:53",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

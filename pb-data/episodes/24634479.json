@@ -1,0 +1,31 @@
+{
+  "id": 24634479,
+  "magazineId": 1778990,
+  "title": "생존자 하이든 (feat. 콰르텟X)",
+  "subTitle": "바이올리니스트 조윤범, 콰르텟엑스",
+  "summary": "음악으로 유머하고 마님 곁에 머물다",
+  "image": "https://img.podbbang.com/pbi/0/462/347/000347462/347462.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 3244,
+    "title": "2023년 2월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1220,
+  "media": {
+    "duration": "01:19:10",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677568268_333000.jpeg?w=750&h=12141\"><p class=\"description\"></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677568379_064700.jpeg?w=750&h=1124\"><p class=\"description\">제1 바이올린 조윤범<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677568379_547500.jpeg?w=750&h=500\"><p class=\"description\">제2 바이올린 양승빈<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677568379_942200.jpeg?w=750&h=1124\"><p class=\"description\">첼로 임이랑<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677568379_604600.jpeg?w=750&h=1124\"><p class=\"description\">비올라 홍성원<br><br><br></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">조윤범, 양승빈, 임이랑, 홍성원</h1><h2 class=\"description\">현악사중주단 콰르텟X<br>사진. LESS</h2></div>"
+}

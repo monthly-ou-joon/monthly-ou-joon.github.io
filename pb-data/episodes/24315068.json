@@ -1,0 +1,31 @@
+{
+  "id": 24315068,
+  "magazineId": 1778990,
+  "title": "역사 속 만년필 헤게모니 그리고 현몽",
+  "subTitle": "만년필연구소장 박종진",
+  "summary": "맥아더, 트루먼, 히틀러, 루즈벨트, 마크 트웨인",
+  "image": "https://img.podbbang.com/pbi/0/508/264/000264508/264508.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2546,
+    "title": "2022년 3월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 831,
+  "media": {
+    "duration": "00:53:07",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2546/1648458675_876800.jpeg?w=750&h=9249\"><p class=\"description\"><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2546/1648708697_656000.jpeg?w=750&h=1125\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박종진</h1><h2 class=\"description\">만년필연구소장<br><br>사진. LESS</h2></div>"
+}

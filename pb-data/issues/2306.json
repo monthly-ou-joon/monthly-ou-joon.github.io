@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24218872,
+      "magazineId": 1778990,
+      "title": "끝판왕 홍성택, 지구 유일의 5극지 탐험가.",
+      "subTitle": "탐험가 홍성택",
+      "summary": "1부 죽음의 베링해협과 기아의 남극점",
+      "image": "https://img.podbbang.com/pbi/0/215/232/000232215/232215.jpg",
+      "isFree": true,
+      "issue": {
+        "id": 2306,
+        "title": "2021년 11월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": true,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 492,
+      "media": {
+        "duration": "01:06:14",
+        "url": "http://file.ssenhosting.com/data1/pb_30174/2111explore.mp3"
+      }
+    },
+    {
+      "id": 24218615,
+      "magazineId": 1778990,
+      "title": "가짜 뉴스와 경이로운 진실, 신이 만든, 판테온",
+      "subTitle": "미술사학자 노성두",
+      "summary": "곰브리치. 오늘 또 여기서 무척, 바보가 된다. ",
+      "image": "https://img.podbbang.com/pbi/0/138/232/000232138/232138.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2306,
+        "title": "2021년 11월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 290,
+      "media": {
+        "duration": "01:01:28",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24218873,
+      "magazineId": 1778990,
+      "title": "이해하려고 하지 말고. 그냥 받아들여. 그냥 그래.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "우주의 작동 원리 - 특수 상대성 이론, 일반 상대성 이론.",
+      "image": "https://img.podbbang.com/pbi/0/216/232/000232216/232216.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2306,
+        "title": "2021년 11월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 434,
+      "media": {
+        "duration": "01:02:11",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24221083,
+      "magazineId": 1778990,
+      "title": "자전거로 아프리카 종단, 미국 횡단, 일본 일주",
+      "subTitle": "이성종&손지현, 이은지, 김수민",
+      "summary": "부부와 친구와 솔로의 본격 육탄 자전거 여행기 ",
+      "image": "https://img.podbbang.com/pbi/0/619/232/000232619/232619.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2306,
+        "title": "2021년 11월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 176,
+      "media": {
+        "duration": "01:36:15",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24218617,
+      "magazineId": 1778990,
+      "title": "[부록] 주당들의 덕업일치, 그 적나라한 맨땅에 헤딩",
+      "subTitle": "양조인 김창수, 유통인 이승훈",
+      "summary": "한국 최초 수제위스키 제조인과 한국 최대의 탁주 전파인",
+      "image": "https://img.podbbang.com/pbi/0/145/232/000232145/232145.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2306,
+        "title": "2021년 11월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 134,
+      "media": {
+        "duration": "01:05:08",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24224700,
+      "magazineId": 1778990,
+      "title": "아리스토텔레스 싫어합니다 (feat. 이탄희)",
+      "subTitle": "철학자 박구용",
+      "summary": "논리학 수사학 자연과학 그리고 컴퓨터 언어의 아버지",
+      "image": "https://img.podbbang.com/pbi/0/852/233/000233852/233852.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2306,
+        "title": "2021년 11월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 478,
+      "media": {
+        "duration": "01:16:59",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24224701,
+      "magazineId": 1778990,
+      "title": "평강의 자수성가, 낙랑의 정무판단",
+      "subTitle": "국문학자 유광수",
+      "summary": "이국적 온달과 야비한 호동을 상대한 북방여인들의 정치극",
+      "image": "https://img.podbbang.com/pbi/0/853/233/000233853/233853.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2306,
+        "title": "2021년 11월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 298,
+      "media": {
+        "duration": "01:14:14",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24224674,
+      "magazineId": 1778990,
+      "title": "스메타나와 된장, 드보르작과 푸줏간. 그 관계.",
+      "subTitle": "바이올리니스트 조윤범",
+      "summary": "체코의 클래식, 어떻게 인류의 자산이 되었는가. ",
+      "image": "https://img.podbbang.com/pbi/0/847/233/000233847/233847.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2306,
+        "title": "2021년 11월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 351,
+      "media": {
+        "duration": "01:29:22",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

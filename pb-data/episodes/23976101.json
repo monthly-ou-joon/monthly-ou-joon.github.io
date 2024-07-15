@@ -1,0 +1,31 @@
+{
+  "id": 23976101,
+  "magazineId": 1778990,
+  "title": "체중이 줄었을 뿐, 그것은 다이어트가 아니다.",
+  "subTitle": "한의사 이재성, 의사 박용우, 의사 박원규, 다이어터 김현수",
+  "summary": "한의 양의 지방흡입. 세상 모든 다이어트를 폭로하다.",
+  "image": "https://img.podbbang.com/pbi/0/934/193/000193934/193934.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 1467,
+    "title": "2021년 2월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 213,
+  "media": {
+    "duration": "01:27:47",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/01diet02.jpg?w=750&h=1000\"><p class=\"description\">다른 몸무게의 김어준 편집장</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/02diet02.jpg?w=750&h=1000\"><p class=\"description\">양의 박용우</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/03diet02.jpg?w=750&h=1000\"><p class=\"description\">한의 이재성</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/04diet02.jpg?w=750&h=1000\"><p class=\"description\">지방흡입 박원규</p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/magazine/1778990/1467/05diet02.jpg?w=750&h=1000\"><p class=\"description\">키토언니 김현수</p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">이재성, 박용우, 박원규, 김현수</h1><h2 class=\"description\">한의사, 가정의학과 전문의, 지방흡입의, 프로다이어터</h2></div>"
+}

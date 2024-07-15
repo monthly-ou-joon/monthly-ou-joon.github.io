@@ -1,0 +1,31 @@
+{
+  "id": 24337546,
+  "magazineId": 1778990,
+  "title": "[부록] OTT 결정장애 극복프로젝트 1탄",
+  "subTitle": "박상준, 임태운, 이서영",
+  "summary": "SF시리즈 - 히어로, 디스토피아, AI, 외계인, 우주선",
+  "image": "https://img.podbbang.com/pbi/0/377/272/000272377/272377.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 2612,
+    "title": "2022년 4월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 746,
+  "media": {
+    "duration": "01:08:59",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651296207_212600.jpeg?w=750&h=12150\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651296207_945500.jpeg?w=750&h=1000\"><p class=\"description\">박상준 대표<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651296207_346500.jpeg?w=750&h=999\"><p class=\"description\">임태운 작가<br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_2612/1651296207_655000.jpeg?w=750&h=1000\"><p class=\"description\">이서영 작가<br><br><br></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박상준, 임태운, 이서영</h1><h2 class=\"description\">사진. 조진섭</h2></div>"
+}

@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "id": 24412872,
+      "magazineId": 1778990,
+      "title": "소수자 입생로랑, 패션을 해방시키다",
+      "subTitle": "패션큐레이터 김홍기 ",
+      "summary": "도어스테핑, 믹스매치, 르-스모킹, 혁명",
+      "image": "https://img.podbbang.com/pbi/0/452/295/000295452/295452.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2809,
+        "title": "2022년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1419,
+      "media": {
+        "duration": "00:58:03",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24413159,
+      "magazineId": 1778990,
+      "title": "대통령의 바지,  권력은 도처에 있다",
+      "subTitle": "철학자 박구용",
+      "summary": "미셸 푸코, 말빨, 판옵티곤, <성의 역사> ",
+      "image": "https://img.podbbang.com/pbi/0/547/295/000295547/295547.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2809,
+        "title": "2022년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1540,
+      "media": {
+        "duration": "01:01:09",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24412871,
+      "magazineId": 1778990,
+      "title": "\"루벤스는 안토니오 코레아를 그리지 않았다.\"",
+      "subTitle": "미술사학자 노성두",
+      "summary": "루벤스 - 한복을 입은 남자, 그 정체를 밝혀내다.",
+      "image": "https://img.podbbang.com/pbi/0/451/295/000295451/295451.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2809,
+        "title": "2022년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 914,
+      "media": {
+        "duration": "00:53:48",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24412874,
+      "magazineId": 1778990,
+      "title": "순정과 비지니스 사이, 그 어딘가.",
+      "subTitle": "국문학자 유광수",
+      "summary": "《절화기담》 꽃뱀 사기단의 머저리 작업기",
+      "image": "https://img.podbbang.com/pbi/0/454/295/000295454/295454.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2809,
+        "title": "2022년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 905,
+      "media": {
+        "duration": "01:00:14",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24412878,
+      "magazineId": 1778990,
+      "title": "난봉 드뷔시와 쑥맥 라벨 (+임윤찬)",
+      "subTitle": "바이올리니스트 조윤범, 피아니스트 김가람",
+      "summary": "인상주의 두 상극, 현대음악을 열다",
+      "image": "https://img.podbbang.com/pbi/0/457/295/000295457/295457.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2809,
+        "title": "2022년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1096,
+      "media": {
+        "duration": "01:14:00",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24412877,
+      "magazineId": 1778990,
+      "title": "자, 이번엔 땅 속이다.",
+      "subTitle": "전자공학박사 박문호",
+      "summary": "대륙이동, 수퍼플룸, 맨틀, 다이아몬드",
+      "image": "https://img.podbbang.com/pbi/0/456/295/000295456/295456.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2809,
+        "title": "2022년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 1077,
+      "media": {
+        "duration": "01:00:25",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24412873,
+      "magazineId": 1778990,
+      "title": "<재즈부흥회3탄> All That History",
+      "subTitle": "한국재즈수비대, 말로, 김영대",
+      "summary": "랙타임, 스윙, 펑크, 블루스, 비밥, 보사노바, 모달재즈 ",
+      "image": "https://img.podbbang.com/pbi/0/453/295/000295453/295453.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2809,
+        "title": "2022년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 717,
+      "media": {
+        "duration": "01:31:14",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    },
+    {
+      "id": 24412901,
+      "magazineId": 1778990,
+      "title": "지구 속 외계 행성,  동굴 탐험",
+      "subTitle": "박상준, 안정화, 백승환",
+      "summary": "헬멧, 밧줄, 박쥐, 절대암흑, 심장박동",
+      "image": "https://img.podbbang.com/pbi/0/465/295/000295465/295465.jpg",
+      "isFree": false,
+      "issue": {
+        "id": 2809,
+        "title": "2022년 7월호",
+        "isPaid": false,
+        "isPublished": true,
+        "canSubscribe": false,
+        "canPay": true,
+        "canPayConfirm": {
+          "title": "해당 매거진을 구매하시겠습니까?",
+          "description": "구매하시면 구독 여부와 상관없이 해당 매거진을 이용하실 수 있습니다."
+        },
+        "permissions": {
+          "play": false,
+          "feedback": false,
+          "support": false,
+          "commentView": true,
+          "commentAction": false
+        }
+      },
+      "likeCount": 753,
+      "media": {
+        "duration": "01:03:04",
+        "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+      }
+    }
+  ],
+  "summary": {
+    "totalCount": 8
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 24634492,
+  "magazineId": 1778990,
+  "title": "적을 찾는 대통령",
+  "subTitle": "철학자 박구용",
+  "summary": "자유의 적, 나찌의 이데올로기",
+  "image": "https://img.podbbang.com/pbi/0/460/347/000347460/347460.jpg",
+  "isFree": false,
+  "issue": {
+    "id": 3244,
+    "title": "2023년 2월호",
+    "isPaid": false,
+    "isPublished": true,
+    "canSubscribe": true,
+    "canPay": false,
+    "canPayConfirm": null,
+    "permissions": {
+      "play": false,
+      "feedback": false,
+      "support": false,
+      "commentView": true,
+      "commentAction": false
+    }
+  },
+  "likeCount": 1613,
+  "media": {
+    "duration": "00:49:28",
+    "url": "https://cdn.podbbang.com/guide/paidcontent.mp3"
+  },
+  "description": "<div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677571137_415900.jpeg?w=750&h=1011\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677571137_289700.jpeg?w=750&h=615\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677565905_947900.jpeg?w=750&h=1116\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677565905_420600.jpeg?w=750&h=1724\"><p class=\"description\"><br><br><br></p></div><div class=\"image\"><img src=\"https://dimg.podbbang.com/ch/0/1778990/playlist_3244/1677565905_394600.jpeg?w=750&h=1000\"><p class=\"description\"></p></div><div class=\"playlist\"><h3 class=\"sub-title\">게스트</h3><h1 class=\"title\">박구용</h1><h2 class=\"description\">전남대 철학과 교수<br><br>사진. LESS</h2></div>"
+}
