@@ -1,4 +1,4 @@
-import{r as s,j as t}from"./jsx-runtime-D2HyDbKh.js";import{M as o}from"./index-neYQUp_0.js";const e=`월말 김어준 팬 사이트
+import{r as s,j as t}from"./jsx-runtime-IdAWuXfe.js";import{M as o}from"./index-DCgpWmM0.js";const e=`월말 김어준 팬 사이트
 ====
 
 본 사이트는 팟빵에서 구독 가능한 월말 김어준 오디오 팟캐스트의 에피소드를 정리한 사이트 입니다.

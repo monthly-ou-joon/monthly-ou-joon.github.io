@@ -1,0 +1,10 @@
+import{r as a,j as t}from"./jsx-runtime-IdAWuXfe.js";import{u as p,d as j,O as y}from"./index-YmG05hYi.js";import{h as f,j as g,_ as w,M as S,L as k,k as r,S as b}from"./components-C9Akr3cQ.js";import"./index-ClzOKa0J.js";/**
+ * @remix-run/react v2.10.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */let l="positions";function L({getKey:e,...c}){let{isSpaMode:u}=f(),i=p(),d=j();g({getKey:e,storageKey:l});let h=a.useMemo(()=>{if(!e)return null;let s=e(i,d);return s!==i.key?s:null},[]);if(u)return null;let m=((s,x)=>{if(!window.history.state||!window.history.state.key){let o=Math.random().toString(32).slice(2);window.history.replaceState({key:o},"")}try{let n=JSON.parse(sessionStorage.getItem(s)||"{}")[x||window.history.state.key];typeof n=="number"&&window.scrollTo(0,n)}catch(o){console.error(o),sessionStorage.removeItem(s)}}).toString();return a.createElement("script",w({},c,{suppressHydrationWarning:!0,dangerouslySetInnerHTML:{__html:`(${m})(${JSON.stringify(l)}, ${JSON.stringify(h)})`}}))}const M="/assets/tailwind-CYyoIKNu.css",I=()=>[{rel:"stylesheet",href:M}];function R({children:e}){return t.jsxs("html",{lang:"en",children:[t.jsxs("head",{children:[t.jsx("meta",{charSet:"utf-8"}),t.jsx("meta",{name:"viewport",content:"width=device-width, initial-scale=1"}),t.jsx(S,{}),t.jsx(k,{})]}),t.jsxs("body",{className:"bg-black",children:[t.jsxs("div",{className:"sticky top-0 z-10 m-auto flex h-12 w-full items-center justify-center gap-2 bg-black p-2 text-center text-lg text-slate-400",children:[t.jsx(r,{to:"/",children:t.jsx("img",{className:"h-6 w-12 object-cover",src:"/intro-title.jpg",alt:""})}),t.jsx(r,{to:"/catalog",children:"Catalog"}),t.jsx(r,{to:"/curation",children:"Curation"}),t.jsx(r,{to:"/artworks/timeline",children:"Artworks"}),t.jsx(r,{to:"/about",children:"About"})]}),e,t.jsx(L,{}),t.jsx(b,{})]})]})}function _(){return t.jsx(y,{})}function A(){return t.jsx("p",{children:"Loading..."})}export{A as HydrateFallback,R as Layout,_ as default,I as links};
